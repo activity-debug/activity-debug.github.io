@@ -35,6 +35,7 @@
 #   icon: 'fa-brands fa-reddit'
 #   url: ''                   # Fill with your Reddit profile link
 #
-# - type: threads
-#   icon: 'fa-brands fa-threads'
-#   url: ''                   # Fill with your Threads profile link
+
+- type: threads
+  icon: 'fa-brands fa-threads'
+  url: 'https://www.threads.net/@rendrapwk' # Fill with your Threads profile link
