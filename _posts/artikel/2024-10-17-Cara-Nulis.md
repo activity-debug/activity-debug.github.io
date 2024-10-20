@@ -1,6 +1,6 @@
 ---
 title: Cara Nulis
-author: rendrapcx
+author: Activity-Debug
 date: 2024-10-17 18:50:35 +0700
 categories: [Artikel]
 tags: [MedSos]
