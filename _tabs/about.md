@@ -15,9 +15,9 @@ order: 4
 > Lihat juga Blog saya yang lainnya.
 {: .prompt-info }
 
-![rendrapcx](/assets/img/1.png){: .rounded-10 w='150' h='150'}(https://rendrapcx.github.io)
 
-[![rendrapwk](/assets/img/2.png){: .rounded-10 w='235' h='235'}](https://rendrapwk.github.io)
+
+[![rendrapck](/assets/img/1.png){: .shadow .rounded-50 w='235' h='235'}](https://rendrapcx.github.io) [![rendrapwk](/assets/img/2.png){: .rounded-50 w='235' h='235'}](https://rendrapwk.github.io)
 
 
 
