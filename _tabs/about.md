@@ -14,10 +14,8 @@ order: 4
 > Lihat juga Blog saya yang lainnya.
 {: .prompt-info }
 
-![Desktop View]("/assets/img/sample/mockup.png"){: w="700" h="400" }
-
 [![rendrapcx](/assets/img/1.png)](https://rendrapcx.github.io){: w="700" h="400" }
- 
+
 [![rendrapwk](/assets/img/2.png)](https://rendrapwk.github.io){: w="700" h="400" }    
 
 
