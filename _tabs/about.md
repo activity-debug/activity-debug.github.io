@@ -12,11 +12,13 @@ order: 4
 ---
 
 > Lihat juga Blog saya yang lainnya.
-> [![rendrapcx](/assets/img/1.png)](https://rendrapcx.github.io) 
 {: .prompt-info }
 
-> Lihat juga Blog saya yang lainnya.
-[![rendrapwk](/assets/img/2.png)](https://rendrapwk.github.io)    
-{: .prompt-info }
+![Desktop View]("/assets/img/sample/mockup.png"){: w="700" h="400" }
+
+[![rendrapcx](/assets/img/1.png)](https://rendrapcx.github.io){: w="700" h="400" }
+ 
+[![rendrapwk](/assets/img/2.png)](https://rendrapwk.github.io){: w="700" h="400" }    
+
 
 
