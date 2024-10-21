@@ -1,9 +1,10 @@
 ---
 title: Memilih Nama Domain yang Bagus
+descriptiom: langkah krusial dalam membangun identitas dan merek website Anda.
 author: admin
 date: 2024-10-21 13:49:27 +0700
-categories: [Blogging]
-tags: [artikel]
+categories: [Artikel]
+tags: [blogging]
 image:
   path: "https://i.ibb.co.com/CstGJgz/choose-a-domain.jpg"
   width: 1000   # in pixels
@@ -41,6 +42,7 @@ Berikut beberapa tips untuk memilih nama domain yang bagus:
 
 - **Pertimbangkan Masa Depan**:
   Pilih nama domain yang relevan dan tidak akan ketinggalan zaman dalam jangka panjang. Hindari menggunakan tren yang bersifat sementara.
+
 
 ### Contoh Nama Domain yang Bagus:
 - Nama perusahaan: 

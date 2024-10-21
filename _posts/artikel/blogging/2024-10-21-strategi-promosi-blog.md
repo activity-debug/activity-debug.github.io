@@ -1,9 +1,10 @@
 ---
 title: Strategi Promosi Blog yang Efektif
+description: '"Sebuah tujuan tanpa rencana hanyalah sebuah keinginan." - Antoine de Saint-Exupéry'
 author: admin
 date: 2024-10-21 13:53:04 +0700
-categories: [Blogging]
-tags: [artikel]
+categories: [Artikel]
+tags: [blogging]
 image:
   path: "https://i.ibb.co.com/642zgsg/blog-money2.jpg"
   width: 1000   # in pixels
@@ -61,13 +62,14 @@ image:
 
 #### Iklan Berbayar:
 
-- **Google Ads**: 
+- **Google Ads** 
   Gunakan Google Ads untuk menargetkan audiens yang spesifik.
 
-- **Iklan media sosial**: 
+- **Iklan media sosial** 
   Manfaatkan fitur iklan berbayar di platform media sosial.
 
-- **WA Blast**: fitur pihak ketiga yang sering digunakan sebagai alternatif iklan berbayar 
+- **WA Blast** 
+  fitur pihak ketiga yang sering digunakan sebagai alternatif iklan berbayar 
 
 
 #### Komunitas Online:
@@ -89,7 +91,7 @@ image:
 - **Fokus pada kualitas konten**: 
   Konten yang berkualitas tinggi akan membuat pembaca kembali lagi.
 - **Bangun hubungan dengan pembaca**: 
-  Jawab komentar dan DM dengan ramah.
+  Jawab komentar dan Direct Message (DM / Pesan Pribadi) dengan ramah.
 - **Konsisten**: 
   Posting secara teratur untuk menjaga minat pembaca.
 - **Analisis data**: 

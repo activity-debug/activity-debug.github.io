@@ -3,14 +3,14 @@ title: Masa Depan Blogging
 description: Lanskap digital telah berubah drastis dengan munculnya berbagai platform media sosial dan konten video.
 author: admin
 date: 2024-10-21 12:52:39 +0700
-categories: [Blogging]
-tags: [artikel]
+categories: [Artikel]
+tags: [blogging]
 pin: true
 image:
   path: "https://storage.ko-fi.com/cdn/useruploads/display/1036bf2a-3929-4a5a-8c53-5ab53f6e0bc9_designer.jpeg"
   width: 1000   # in pixels
   height: 400   # in pixels
-  alt: image alternative text
+  alt: infografis-blogging
 ---
 
 
@@ -32,9 +32,12 @@ Anggapan bahwa blog sudah tidak laku di pasaran adalah pandangan yang terlalu me
 
 ### Namun, ada beberapa tantangan yang dihadapi blog saat ini:
 
-**Persaingan**: Blog harus bersaing dengan berbagai format konten yang lebih menarik secara visual, seperti video dan infografis.
-Perubahan Algoritma: Perubahan algoritma mesin pencari membuat optimasi SEO menjadi lebih kompleks.
-Waktu dan Tenaga: Membangun dan merawat blog yang sukses membutuhkan waktu dan tenaga yang signifikan.
+- **Persaingan** 
+  Blog harus bersaing dengan berbagai format konten yang lebih menarik secara visual, seperti video dan infografis.
+- **Perubahan Algoritma** 
+  Perubahan algoritma mesin pencari membuat optimasi SEO menjadi lebih kompleks.
+- **Waktu dan Tenaga** 
+  Membangun dan merawat blog yang sukses membutuhkan waktu dan tenaga yang signifikan.
 
 
 ### Jadi, bagaimana agar blog tetap relevan?
