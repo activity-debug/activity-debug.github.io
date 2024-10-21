@@ -6,10 +6,20 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-Activity-Debug:
+admin:
   name: Activity-Debug
   #twitter: cotes2020
   url: https://activity-debug.github.io
+
+rendrapcx:
+  name: rendrapcx
+  #twitter: rendrapcx
+  url: https://github.com/rendrapcx.github.io
+
+rendrapwk:
+  name: rendrapwk
+  #twitter: rendrapwk
+  url: https://github.com/rendrapwk.github.io
 
 # sille_bille:
 #   name: Dinesh Prasanth Moluguwan Krishnamoorthy
