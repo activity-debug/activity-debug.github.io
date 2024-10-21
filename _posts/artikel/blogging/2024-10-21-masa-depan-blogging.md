@@ -6,7 +6,13 @@ date: 2024-10-21 12:52:39 +0700
 categories: [Blogging]
 tags: [artikel]
 pin: true
+image:
+  path: "https://storage.ko-fi.com/cdn/useruploads/display/1036bf2a-3929-4a5a-8c53-5ab53f6e0bc9_designer.jpeg"
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: image alternative text
 ---
+
 
 Anggapan bahwa blog sudah tidak laku di pasaran adalah pandangan yang terlalu menyederhanakan. Memang, lanskap digital telah berubah drastis dengan munculnya berbagai platform media sosial dan konten video. Namun, blog tetap memiliki tempat tersendiri dan bahkan mengalami transformasi untuk tetap relevan.
 
