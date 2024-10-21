@@ -4,11 +4,6 @@ author: admin
 date: 2024-10-21 12:56:50 +0700
 categories: [Blogging]
 tags: [artikel]
-image:
-  path: 
-  width: 1000   # in pixels
-  height: 400   # in pixels
-  alt: image alternative text
 ---
 
 ## Panduan Singkat untuk Pemula

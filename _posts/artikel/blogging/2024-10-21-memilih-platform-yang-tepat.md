@@ -4,11 +4,6 @@ author: admin
 date: 2024-10-21 13:32:49 +0700
 categories: [Blogging]
 tags: [artikel]
-image:
-  path: 
-  width: 1000   # in pixels
-  height: 400   # in pixels
-  alt: image alternative text
 ---
 
 Memilih platform blog yang tepat sangat penting untuk keberhasilan blog Anda. Setiap platform memiliki kelebihan dan kekurangan masing-masing, sehingga pemilihannya bergantung pada kebutuhan dan tingkat kenyamanan Anda.

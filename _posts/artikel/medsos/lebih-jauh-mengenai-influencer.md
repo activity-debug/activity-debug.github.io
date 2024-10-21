@@ -4,11 +4,6 @@ author: admin
 date: 2024-10-21 14:04:44 +0700
 categories: [MedSos]
 tags: [artikel]
-image:
-  path: path or Link
-  width: 1000   # in pixels
-  height: 400   # in pixels
-  alt: image alternative text
 ---
 Apa itu Influencer Secara Lebih Detail?
 

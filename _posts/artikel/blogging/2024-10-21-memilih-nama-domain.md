@@ -4,11 +4,6 @@ author: admin
 date: 2024-10-21 13:49:27 +0700
 categories: [Blogging]
 tags: [artikel]
-image:
-  path: 
-  width: 1000   # in pixels
-  height: 400   # in pixels
-  alt: image alternative text
 ---
 
 > Memilih nama domain yang bagus adalah langkah krusial dalam membangun kehadiran online. Nama domain yang tepat akan menjadi identitas merek Anda dan memudahkan orang untuk mengingat serta menemukan website Anda.
