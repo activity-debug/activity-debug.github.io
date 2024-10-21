@@ -8,4 +8,14 @@ order: 4
 {: .prompt-tip }
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K1151ATI)
+<section class="layout">
+  <div>
+    [![rendrapcx](/assets/img/1.png)](https://rendrapcx.github.io)
+  </div>
+  <div>
+    [![rendrapwk](/assets/img/2.png)](https://rendrapwk.github.io)    
+  </div>
+  <div class="marginLeft">
+    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K1151ATI)
+  </div>  
+</section>
