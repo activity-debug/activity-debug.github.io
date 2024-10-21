@@ -5,7 +5,7 @@ date: 2024-10-21 13:32:49 +0700
 categories: [Blogging]
 tags: [artikel]
 image:
-  path: path or Link
+  path: 
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: image alternative text

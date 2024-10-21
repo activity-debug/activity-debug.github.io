@@ -7,7 +7,7 @@ categories: [Blogging]
 tags: [artikel]
 pin: true
 image:
-  path: path or Link
+  path: 
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: image alternative text
