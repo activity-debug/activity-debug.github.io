@@ -4,6 +4,11 @@ author: admin
 date: 2024-10-21 13:32:49 +0700
 categories: [Blogging]
 tags: [artikel]
+image:
+  path: "https://i.ibb.co.com/WH081Rn/platform-blog.jpg"
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: blog-platform
 ---
 
 Memilih platform blog yang tepat sangat penting untuk keberhasilan blog Anda. Setiap platform memiliki kelebihan dan kekurangan masing-masing, sehingga pemilihannya bergantung pada kebutuhan dan tingkat kenyamanan Anda.
