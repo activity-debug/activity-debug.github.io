@@ -4,6 +4,11 @@ author: admin
 date: 2024-10-21 13:41:09 +0700
 categories: [Blogging]
 tags: [artikel]
+image:
+  path: "https://i.ibb.co.com/6FtCF6Q/blog-money1.jpg"
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: infografis-blog-money
 ---
 
 ### Cara Menghasilkan Uang dari Blog

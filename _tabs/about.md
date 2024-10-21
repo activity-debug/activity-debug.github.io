@@ -17,7 +17,7 @@ order: 4
 
 
 
-[![rendrapck](/assets/img/1.png){: .shadow .rounded-50 w='235' h='235'}](https://rendrapcx.github.io) [![rendrapwk](/assets/img/2.png){: .rounded-50 w='235' h='235'}](https://rendrapwk.github.io)
+[![rendrapck](/assets/img/1.png){: .w-75 .shadow .rounded-10 w='235' h='235'}](https://rendrapcx.github.io) [![rendrapwk](/assets/img/2.png){: w.-75 .shadow  .rounded-10 w='235' h='235'}](https://rendrapwk.github.io)
 
 
 
