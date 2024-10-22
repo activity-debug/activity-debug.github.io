@@ -1,6 +1,11 @@
+---
+title: Peran Media Sosial dalam Mengatasi Masalah Sosial
+author: rendrapcx
+date: 2024-10-22 16:30:41 +0700
+categories: [Artikel]
+tags: [medsos]
+---
 
-
-Peran Media Sosial dalam Mengatasi Masalah Sosial
 Media sosial telah menjadi bagian tak terpisahkan dari kehidupan kita sehari-hari. Platform digital ini tidak hanya berfungsi sebagai sarana komunikasi dan hiburan, tetapi juga memiliki peran yang signifikan dalam mengatasi berbagai masalah sosial.
 
 Sisi Positif Media Sosial dalam Mengatasi Masalah Sosial:

@@ -3,7 +3,7 @@ title: Cara Menghasilkan Uang dari Blog
 author: admin
 date: 2024-10-21 13:41:09 +0700
 categories: [Artikel]
-tags: [blogging]
+tags: [blogging, monetisasi]
 image:
   path: "https://i.ibb.co.com/6FtCF6Q/blog-money1.jpg"
   width: 1000   # in pixels

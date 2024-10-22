@@ -2,8 +2,8 @@
 title: Influencer sebagai Pembentuk Tren
 author: admin
 date: 2024-10-21 13:22:54 +0700
-categories: [MedSos]
-tags: [artikel]
+categories: [Artikel]
+tags: [medsos]
 ---
 
 ### Influencer sebagai Pembentuk Tren

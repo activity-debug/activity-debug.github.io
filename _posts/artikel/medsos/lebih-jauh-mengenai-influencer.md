@@ -2,8 +2,8 @@
 title: Apa itu Influencer?
 author: admin
 date: 2024-10-21 14:04:44 +0700
-categories: [MedSos]
-tags: [artikel]
+categories: [Artikel]
+tags: [medsos]
 ---
 Apa itu Influencer Secara Lebih Detail?
 
