@@ -5,8 +5,12 @@ author: admin
 date: 2024-10-22 16:14:47 +0700
 categories: [Artikel]
 tags: [medsos]
+image:
+  path: "https://i.ibb.co.com/JqdC8Gc/etika-ai-medsos.jpg"
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: penerapan etika AI dalam media sosial
 ---
-
 
 Etika adalah elemen yang sangat penting dalam pengembangan sistem kecerdasan buatan (AI) yang digunakan dalam media sosial. Pertama, etika membantu memastikan bahwa teknologi yang dikembangkan tidak hanya efisien, tetapi juga adil dan bertanggung jawab. Dalam konteks media sosial, di mana interaksi dan komunikasi dapat berdampak pada jutaan orang, pertimbangan etika sangat penting untuk melindungi privasi pengguna dan mencegah penyalahgunaan data pribadi. Ketika sistem AI menganalisis dan memproses data pengguna, tanpa adanya pedoman etika yang kuat, ada risiko bahwa data dapat digunakan untuk manipulasi, diskriminasi, atau penyebaran informasi yang menyesatkan. Etika juga berfungsi sebagai pemandu untuk menciptakan algoritma yang menghormati hak asasi manusia dan mempromosikan keberagaman serta inklusi.
 

@@ -38,5 +38,3 @@ Perkembangan perilaku sosial pada anak: Bagaimana perilaku sosial anak berkemban
 Peran media sosial dalam perilaku sosial: Bagaimana media sosial mempengaruhi cara kita berinteraksi dengan orang lain?
 Perilaku sosial dalam konteks budaya yang berbeda: Bagaimana perilaku sosial bervariasi antar budaya yang berbeda?
 Gangguan perilaku sosial: Apa saja jenis-jenis gangguan perilaku sosial dan bagaimana cara mengatasinya?
-
-Kata kunci: perilaku sosial, interaksi sosial, norma sosial, nilai, peran sosial, budaya, situasi sosial, perkembangan sosial, gangguan perilaku sosial.

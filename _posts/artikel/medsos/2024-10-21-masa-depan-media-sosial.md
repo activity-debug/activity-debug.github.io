@@ -5,6 +5,11 @@ author: admin
 date: 2024-10-21 12:44:23 +0700
 categories: [Artikel]
 tags: [medsos]
+image:
+  path: "https://i.ibb.co.com/6PK5hmN/tranformasi-media-sosial.jpg"
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: transformasi media sosial
 ---
 
 Dalam beberapa tahun terakhir, dunia media sosial telah mengalami transformasi yang luar biasa, bergerak dengan kecepatan yang sulit dipahami. Platform media sosial yang sebelumnya hanya berfungsi sebagai tempat untuk berbagi foto dan status kini telah berevolusi menjadi alat komunikasi yang kompleks, membentuk pola interaksi sosial dan diskusi global. Dengan kehadiran berbagai platform baru yang muncul, seperti TikTok dan Clubhouse, pengguna kini memiliki lebih banyak pilihan untuk mengekspresikan diri mereka. Selain itu, perubahan perilaku pengguna yang semakin mengarah pada konsumsi konten yang interaktif dan cepat, seperti video singkat, telah mengubah tata cara penyampaian informasi. Media sosial kini bukan hanya sekadar hiburan, tetapi berfungsi sebagai sumber berita dan informasi yang memengaruhi pemikiran dan tindakan masyarakat.
