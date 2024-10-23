@@ -6,7 +6,7 @@ date: 2024-10-21 13:32:49 +0700
 categories: [Artikel]
 tags: [blogging]
 image:
-  path: "https://i.ibb.co.com/WH081Rn/platform-blog.jpg"
+  path: "/activity-debug/image/upload/t_logo-overlay/v1729664401/platform-blog_rxqhf7.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: blog-platform
