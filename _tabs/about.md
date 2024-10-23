@@ -13,12 +13,10 @@ order: 4
 ---
 
 > Pengumuman
-{: .prompt-tip }
+{: .prompt-info }
 
 Apakah kamu punya passion dalam menulis dan ingin karya-karyamu dibaca oleh banyak orang? Kami mengundangmu untuk berbagi cerita dan pengetahuanmu di Activity-Debug. Tema tulisan bebas, asalkan menarik dan bermanfaat bagi pembaca.
 
 Jika Anda berminat, silakan isi [**`formulir`**](https://forms.gle/Cm6K769k1PEgUmWS9) terlebih dahulu. Kami akan membalas email Anda secepatnya.
 
 Mari bersama-sama membangun komunitas penulis yang inspiratif!
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeEyj5Ka4mss4BerarAMWbX2gyjRVy32gkI4_qr6ZAXQA6OfQ/viewform?embedded=true" width="640" height="778" frameborder="0" marginheight="0" marginwidth="0">Memuat…</iframe>
