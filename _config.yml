@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn: https://res.cloudinary.com
 
 # the avatar on sidebar, support local or CORS resources
-avatar: activity-debug/image/upload/v1729671666/c14qp9hyqr2edoltcnn8.png
+avatar: activity-debug/image/upload/v1729683117/v5znkhnwea4mqoc0gpzc.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
