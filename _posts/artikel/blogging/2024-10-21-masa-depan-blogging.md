@@ -7,7 +7,7 @@ categories: [Artikel]
 tags: [blogging]
 pin: true
 image:
-  path: "https://storage.ko-fi.com/cdn/useruploads/display/1036bf2a-3929-4a5a-8c53-5ab53f6e0bc9_designer.jpeg"
+  path: "activity-debug/image/upload/t_overlay/v1729687778/hsmbq0a98aenu5nk8znk.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-blogging

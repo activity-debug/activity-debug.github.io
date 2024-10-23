@@ -4,9 +4,9 @@ author: rendrapcx
 description: Tingkatkan Profitabilitas Bisnis dengan memahami dan mengelola ongkos produksi.
 date: 2024-10-16 10:00:12 +0700
 categories: [Artikel]
-tags: [usaha]
+tags: [ekonomi]
 image:
-  path: https://i.ibb.co.com/FzSGNN3/Designer-1.jpg
+  path: "activity-debug/image/upload/t_overlay/v1729686232/iuczybc6iol8lyvpfzsn.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-ongkos-produksi
@@ -96,10 +96,12 @@ Tips Tambahan:
    - Lakukan Evaluasi Berkala
           Evaluasi secara berkala untuk melihat apakah ada biaya yang bisa dikurangi atau efisiensi yang bisa ditingkatkan.
 
-Contoh Lain:
-Anda bisa menerapkan konsep yang sama untuk berbagai jenis bisnis, seperti produksi pakaian, pembuatan furnitur, atau layanan jasa seperti salon kecantikan.
+**Contoh Lain**:
+     Anda bisa menerapkan konsep yang sama untuk berbagai jenis bisnis, seperti produksi pakaian, pembuatan furnitur, atau layanan jasa seperti salon kecantikan.
 
-Penting: Contoh di atas adalah perhitungan yang sangat sederhana. Dalam praktiknya, perhitungan ongkos produksi bisa jauh lebih kompleks, terutama untuk bisnis yang lebih besar.
+**Penting**: 
+     Contoh di atas adalah perhitungan yang sangat sederhana. Dalam praktiknya, perhitungan ongkos produksi bisa jauh lebih kompleks, terutama untuk bisnis yang lebih besar.
+
 Semoga contoh ini membantu Anda memahami konsep ongkos produksi dengan lebih baik.
 
 > Disclaimer

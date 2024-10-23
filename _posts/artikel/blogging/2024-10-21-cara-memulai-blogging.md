@@ -6,7 +6,7 @@ date: 2024-10-21 12:56:50 +0700
 categories: [Artikel]
 tags: [blogging]
 image:
-  path: "https://storage.ko-fi.com/cdn/useruploads/display/fc328331-27c7-499f-9d41-c726ec5dd51f_designer6.jpeg"
+  path: "activity-debug/image/upload/t_overlay/v1729687622/b1htsgzzs6rfubuquruv.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-memulai-blog
