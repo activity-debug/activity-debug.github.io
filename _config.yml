@@ -62,7 +62,7 @@ analytics:
   google:
     id: G-JGRWHRF6QJ # fill in your Google Analytics ID
   goatcounter:
-    id: #activity-debug # fill in your GoatCounter ID
+    id: rendrapwk@ #activity-debug # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -76,7 +76,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: #activity-debug.goatcounter.com # now only supports 'goatcounter'
+  provider: activity-debug.goatcounter.com # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
@@ -96,7 +96,9 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+# https://res.cloudinary.com/activity-debug/image/upload/t_logo-overlay/v1729667851/imfsom4vu2gztcjuswdl.jpg
+# https://res.cloudinary.com/activity-debug/image/upload/t_logo-overlay/v1729664401/platform-blog_rxqhf7.jpg
+cdn: https://res.cloudinary.com
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/img/avatar.png"

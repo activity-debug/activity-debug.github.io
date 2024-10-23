@@ -6,11 +6,13 @@ date: 2024-10-21 13:49:27 +0700
 categories: [Artikel]
 tags: [blogging]
 image:
-  path: "https://i.ibb.co.com/CstGJgz/choose-a-domain.jpg"
+#  path: "https://i.ibb.co.com/CstGJgz/choose-a-domain.jpg"
+  path: "/activity-debug/image/upload/t_logo-overlay/v1729664401/platform-blog_rxqhf7.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: "choose-a-domain"
 ---
+
 
 > Memilih nama domain yang bagus adalah langkah krusial dalam membangun kehadiran online. Nama domain yang tepat akan menjadi identitas merek Anda dan memudahkan orang untuk mengingat serta menemukan website Anda.
 {: .prompt-info }
