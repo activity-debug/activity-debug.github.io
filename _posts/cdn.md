@@ -29,7 +29,7 @@ CDN berfungsi untuk mempercepat pengiriman konten dari sebuah website atau aplik
 #### Bagaimana Cara Kerja CDN?
 
 - **Pengguna mengakses website**
-  Ketika pengguna mengetik alamat website di browser, permintaan akan dikirim ke server asal.
+Ketika pengguna mengetik alamat website di browser, permintaan akan dikirim ke server asal.
 Server asal mengirimkan konten ke CDN: Server asal akan mengirimkan konten yang diminta ke jaringan CDN.
 CDN menyimpan konten: Konten tersebut akan disimpan di server-server CDN terdekat dengan pengguna.
 Pengguna menerima konten dari CDN: Ketika pengguna meminta konten yang sama lagi, CDN akan langsung mengirimkan konten dari server terdekat, tanpa harus melalui server asal.
