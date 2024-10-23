@@ -96,12 +96,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-# https://res.cloudinary.com/activity-debug/image/upload/t_logo-overlay/v1729667851/imfsom4vu2gztcjuswdl.jpg
-# https://res.cloudinary.com/activity-debug/image/upload/t_logo-overlay/v1729664401/platform-blog_rxqhf7.jpg
 cdn: https://res.cloudinary.com
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/avatar.png"
+avatar: activity-debug/image/upload/v1729666215/activity-debug-logo_ukxl7r.png #"/assets/img/avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
