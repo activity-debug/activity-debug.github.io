@@ -18,7 +18,7 @@ Memiliki blog yang sukses tidak hanya tentang berbagi informasi, tetapi juga bis
 
 1. **Adsense**
 
-   Google AdSense: Salah satu cara paling umum. Anda akan mendapatkan bayaran setiap kali seseorang mengklik iklan yang ditampilkan di blog Anda.
+   Google AdSense salah satu cara paling umum. Anda akan mendapatkan bayaran setiap kali seseorang mengklik iklan yang ditampilkan di blog Anda.
 
 2. **Iklan langsung**
     
@@ -26,8 +26,9 @@ Memiliki blog yang sukses tidak hanya tentang berbagi informasi, tetapi juga bis
 
 3. **Affiliate Marketing**
 
-   Promosikan produk orang lain: Anda akan mendapatkan komisi setiap kali ada pengunjung yang membeli produk melalui link afiliasi Anda.
-   Platform populer: Amazon Associates, Lazada Affiliate, dan masih banyak lagi.
+   **Promosikan produk orang lain**: Anda akan mendapatkan komisi setiap kali ada pengunjung yang membeli produk melalui link afiliasi Anda.
+
+   **Platform populer**: Amazon Associates, Lazada Affiliate, dan masih banyak lagi.
 
 4. **Jual Produk atau Jasa**
    
@@ -45,11 +46,11 @@ Memiliki blog yang sukses tidak hanya tentang berbagi informasi, tetapi juga bis
 
 5. **Sponsorship**
 
-   Kerjasama dengan brand: Anda bisa bekerja sama dengan brand untuk membuat konten yang disponsori, seperti ulasan produk, tutorial, atau giveaway.
+   _Kerjasama dengan brand_: Anda bisa bekerja sama dengan brand untuk membuat konten yang disponsori, seperti ulasan produk, tutorial, atau giveaway.
 
 6. **Donasi**
    
-   Pasang tombol donasi: Minta pembaca untuk memberikan donasi jika mereka merasa konten Anda bermanfaat. Platform seperti Patreon atau Ko-fi bisa Anda gunakan.
+   _Pasang tombol donasi_: Minta pembaca untuk memberikan donasi jika mereka merasa konten Anda bermanfaat. Platform seperti Patreon atau Ko-fi bisa Anda gunakan.
 
 ### Tips Tambahan untuk Memonetisasi Blog:
 - **Bangun audiens yang loyal**

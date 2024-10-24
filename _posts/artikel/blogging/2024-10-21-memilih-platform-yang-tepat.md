@@ -58,24 +58,26 @@ Berikut beberapa platform blogging populer beserta kelebihan dan kekurangannya:
 
 #### Faktor yang Perlu Dipertimbangkan:
 - **Anggaran** 
+  
   Berapa banyak yang ingin Anda keluarkan? Berapa Cost Produksi yang diperlukan?
 
 - **Keahlian teknis** 
-  Seberapa nyaman Anda dengan teknologi? Apakah Anda membutuhkan Virtual Assisten?
+
+  Seberapa nyaman Anda dengan teknologi? Apakah Anda membutuhkan Virtual Assisten? Apakah perlu mempelajari hal baru, misalkan edit video?
 
 - **Tujuan blog** 
-  Apakah Anda ingin blog pribadi, bisnis, atau portofolio?
+
+  Tentukan tujuan blog Anda, Apakah Anda ingin blog pribadi, bisnis, atau portofolio?
 
 - **Fitur yang dibutuhkan** 
-  Apakah Anda membutuhkan toko online, forum, atau fitur khusus lainnya?
+
+  Apakah Anda membutuhkan toko online, forum, atau fitur khusus lainnya? Misalkan Blog personal, apakah perlu memasukan download file portofolio atau menautkan link ke media sosial?
+
 
 #### Tips lainnya
-- **Coba demo** 
-  Hampir semua platform menawarkan demo gratis, jadi cobalah beberapa sebelum memutuskan.
-- **Baca ulasan** 
-  Cari tahu pendapat pengguna lain tentang platform yang Anda pertimbangkan.
-- **Pertimbangkan jangka panjang**
-  Pilih platform yang dapat Anda kembangkan seiring pertumbuhan blog Anda.
+- Hampir semua platform menawarkan demo gratis, jadi cobalah beberapa sebelum memutuskan.
+- Baca testimonial pengguna lain tentang platform yang Anda pertimbangkan.
+- Pilih platform yang dapat Anda kembangkan seiring pertumbuhan blog Anda.
 
 
 #### Kesimpulan:
