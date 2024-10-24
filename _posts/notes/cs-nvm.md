@@ -1,11 +1,14 @@
 ---
-title: Node Version Manager
-author: rendrapcx
-date: 2022-07-04 02:27:11 +0700
-categories: [Notes, Cheatsheet, NVM]
-tags: [cheatsheet, wsl2, windows-11]
-last_modified_at: 2022-07-07 12:30:07 +0700
+title: Node Version Manager on WSL
+description: Halaman ini akan di update seiring ada perubahan pada catatan yang saya buat
+author: admin
+date: 2024-10-24 18:30:21 +0700
+categories: [Notes]
+tags: [tags]
 ---
+
+> Halaman ini akan di update seiring ada perubahan pada catatan yang saya buat
+{: .prompt-info }
 
 ## Node Version Manager on WSL
 

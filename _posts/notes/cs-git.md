@@ -1,6 +1,6 @@
 ---
 title: GIT
-author: rendrapcx
+author: admin
 date: 2022-10-03 19:53:01 +0700
 last_modified_at: 2022-10-03 19:53:39 +0700
 categories: [Notes, Cheatsheet, GIT]

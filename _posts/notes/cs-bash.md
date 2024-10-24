@@ -1,10 +1,9 @@
 ---
-title: Common Bash Shell Script
+title: bash
 author: rendrapcx
-date: 2022-10-03 19:56:11 +0700
-last_modified_at: 2022-10-03 19:57:37 +0700
-categories: [Notes, Cheatsheet, Bash]
-tags: [cheatsheet, windows-11]
+date: 2024-10-24 18:28:31 +0700
+categories: [Notes]
+tags: [catatan]
 ---
 
 

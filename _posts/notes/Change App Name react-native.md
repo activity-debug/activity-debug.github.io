@@ -1,9 +1,14 @@
 ---
-tags: [react-native]
 title: Change App Name react-native
-created: '2022-01-28T16:53:06.810Z'
-modified: '2022-06-19T16:14:59.558Z'
+Description: Change App Name react-native
+author: admin
+date: 2024-10-24 18:26:13 +0700
+categories: [Notes]
+tags: [react-native]
 ---
+
+> Halaman ini akan di update seiring ada perubahan pada catatan yang saya buat
+{: .prompt-info }
 
 # Change App Name react-native
 
