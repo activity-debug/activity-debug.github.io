@@ -62,7 +62,7 @@ analytics:
   google:
     id: G-JGRWHRF6QJ # fill in your Google Analytics ID
   goatcounter:
-    id: rendrapwk@ #activity-debug # fill in your GoatCounter ID
+    id: #rendrapwk@ #activity-debug # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -76,7 +76,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: activity-debug.goatcounter.com # now only supports 'goatcounter'
+  provider: #activity-debug.goatcounter.com # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
