@@ -2,7 +2,7 @@
 title: Produk Digital
 description: Panduan Singkat dari Pengertian hingga Pemasaran
 author: admin
-date: 2024-10-24 14:21:43 +0700
+date: 2024-10-23 14:21:43 +0700
 categories: [Artikel]
 tags: [edukasi]
 image:
