@@ -1,0 +1,50 @@
+---
+title: Node Version Manager
+author: rendrapcx
+date: 2022-07-04 02:27:11 +0700
+categories: [Notes, Cheatsheet, NVM]
+tags: [cheatsheet, wsl2, windows-11]
+last_modified_at: 2022-07-07 12:30:07 +0700
+---
+
+## Node Version Manager on WSL
+
+> ini untuk ubuntu, wsl atau multipass dan sebangsanya, untuk windows disini [^Win]
+{: .prompt-info }
+
+### Requirement
+```sh
+which curl
+# if not installed:
+# sudo apt install curl
+```
+
+### Download Installer to home
+
+```sh
+cd ~
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+```
+
+### Reload `.bashrc`
+```sh
+source ~/.bashrc
+```
+
+### Usefull Command
+
+| command               | description                     |
+| --------------------- | ------------------------------- |
+| nvm                   | show manual page                |
+| nvm list              | show available list             |
+| nvm ls_remote \| less | show all available list         |
+| nvm install lts       | install last lts                |
+| nvm -v                | cek versi nvm                   |
+| node -v               | cek versi node                  |
+| npm -v                | cek versi npm                   |
+| nvm use lts           | gunakan versi lts yg terinstall |
+
+---
+
+[^Win]: View on [Microsoft Docs](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-windows)

@@ -1,0 +1,251 @@
+---
+title: Ubuntu WSL 2
+author: rendrapcx
+date: 2022-07-01 20:55:00 +0700
+categories: [Notes, Cheatsheet, WSL2 ]
+tags: [wsl2]
+last_modified_at: 2022-07-06 20:55:00 +0700
+---
+
+## What is?
+
+- <https://docs.microsoft.com/en-us/windows/wsl/about>
+
+## Install & Config
+
+- <https://docs.microsoft.com/en-us/windows/wsl/install>
+- <https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#1-overview>
+
+## Running WSL
+
+### With Start Menu
+
+1. using start menu,
+2. find for `Ubuntu`
+
+### using Powsershell
+
+1. Open Powershell, (*press <kbd>WinCtl + x</kbd>, type <kbd> i </kbd>*)
+2. type `wsl` on terminal
+3. dan kamu will login to ubuntu in current location you type the command
+
+> Or you can select from terminal dropdown tab, to open new tab as ubuntu wsl, seperti pada gambar berikut
+>   {: .prompt-info }
+
+![Desktop View](https://i.imgur.com/YzzYQZN.png){: .shadow w="40%" }
+
+## Usefull Command
+
+### Powershell
+
+| Command                     | Descriptions                 |
+| --------------------------- | ---------------------------- |
+| wsl -v                      | cek versi                    |
+| wsl -l                      | cek distro                   |
+| wsl -l -v                   | cek versi dan list distro    |
+| wsl --help                  | man page wsl                 |
+| wsl --list --online         | list distro online           |
+| wsl.exe --install           | install default distribution |
+| wsl --set-default-version 2 | set to version 2 wsl version |
+
+> Install other distro: `wsl --install -d <Distribution Name>`
+> {: .prompt-tip }
+
+#### Ganti Default User
+
+| Command                                    | Descriptions                     |
+| ------------------------------------------ | -------------------------------- |
+| ubuntu config --default-user new_user_name | ganti default user distro ubuntu |
+
+> **NOTE:** Perintah diatas digunakan di powershell sebelum masuk ke mode wsl
+> {: .prompt-info }
+
+| Command  | Descriptions |
+| -------- | ------------ |
+| wslfetch |              |
+| pwd      |              |
+| whoami   |              |
+
+> **NOTE:** Perintah diatas digunakan setelah masuk ke mode wsl
+> {: .prompt-info }
+
+#### Running ubuntu command with wsl
+
+- tanpa masuk dulu mode linux
+- tambahkan `wsl` sebelum kode perintah under linuxnya
+  - *Ex: Cek status ssh* `wsl service ssh status`
+
+### WSL Packages & Services
+
+| Command                                | Descriptions                                      |
+| -------------------------------------- | ------------------------------------------------- |
+| sudo nano /etc/apt/sources.list        |                                                   |
+| sudo apt update                        |                                                   |
+| sudo apt full-upgrade                  |                                                   |
+| sudo apt-get purge --auto-remove gedit | ..                                                |
+| code .                                 | vscode wsl remote, _using code on windows system_ |
+
+> by default `systemctl` was disable because system has not been booted with systemd as init system.
+> gunakan perintah `service` to check services on wsl, misalkan `service ssh status`, kalo mau dari powershell `wsl service ssh status`
+> {: .prompt-info }
+
+> kalo ada error ssh gak bisa di start, update dan upgrade dulu, `sudo apt update && sudo apt upgrade` {: .prompt-info }
+
+| Command                    | Descriptions                       |
+| -------------------------- | ---------------------------------- |
+| service --status-all       | display all services on ubuntu wsl |
+| service ssh status         | cek status sshd                    |
+| sudo service ssh start     | start sshd                         |
+| sudo service ssh stop      | stop sshd                          |
+| service ssh --full-restart | restard sshd                       |
+
+### System Informations
+
+| Command              | Descriptions                                                          |
+| -------------------- | --------------------------------------------------------------------- |
+| lscpu                | display information about the CPU architecture                        |
+| lshw                 | list hardware                                                         |
+| du                   | Summarize disk usage of the set of FILEs, recursively for directories |
+| df                   | report file system disk space usage                                   |
+| **fdisk**            | **manipulate disk partition table**                                   |
+| vmstat               | Report virtual memory statistics                                      |
+| uptime               | uptime running pc                                                     |
+| ip a                 | check ip address                                                      |
+| ip addr              | check ip address                                                      |
+| ip addr \| grep eth0 |                                                                       |
+
+### Manage Process
+
+| Command       | Descriptions                                                                          |
+| ------------- | ------------------------------------------------------------------------------------- |
+| `echo $PATH`  | display path environment                                                              |
+| `ps`          | displays information about a selection of the active processes, eg: `ps -e`, `pas -a` |
+| `tree`        | list contents of directories in a tree-like format                                    |
+| pidof -z sshd | List zombie and I/O waiting processes. May cause pidof to hang.                       |
+| `pstree`      | Display a tree of processes                                                           |
+| `top`         | display Linux processes with dynamic real-time view of a running system               |
+| `htop`        | mostly like `top` interactive process viewer                                          |
+
+### Users & Groups
+
+| Command                   | Descriptions                                                |
+| ------------------------- | ----------------------------------------------------------- |
+| cat /etc/passwd           |                                                             |
+| useradd                   | create user only                                            |
+| usermod                   | create user only                                            |
+| userdel                   | create user only                                            |
+| adduser                   | create user also create /home/jack, eg: `sudo adduser jack` |
+| `usermod`                 | mod jack as group sudo `sudo usermod -aG sudo jack`         |
+| cat /etc/passwd           |                                                             |
+| groupadd                  | *groupadd marketing accounting*                             |
+| groupmod                  | *groupmod -n marketing old_group*                           |
+| groupdel                  |                                                             |
+| `gpasswd`                 | *administer /etc/group and /etc/gshadow*                    |
+| gpasswd -a jack marketing | *add jack to group marketing*                               |
+
+### Permissions
+
+| Command               | Descriptions                          |
+| --------------------- | ------------------------------------- |
+| su jack               | switch as jack in current session     |
+| su - jack             | login to jack environment new session |
+| sudo cat /etc/sudoers | use `sudo visudo` to modify           |
+
+### Working with Files and Directories
+
+| Command | Descriptions                        |
+| ------- | ----------------------------------- |
+| ls      | list dir                            |
+| cd      | change dir                          |
+| \|      | pipe                                |
+| less    | eg: <mark> ls /etc/ \| less </marK> |
+| more    | eg: <mark> ls /etc/ \| more </marK> |
+
+#### hash
+
+| Command | Descriptions |
+| ------- | ------------ |
+| hash    |              |
+| cksum   |              |
+| find    |              |
+| grep    |              |
+| diff    |              |
+
+#### Link
+
+| Command                     | Descriptions                     |
+| --------------------------- | -------------------------------- |
+| ln file1 fileA              | hardlink file1 shortcutnya fileA |
+| `ln -s folder1 sym-folder1` | simbolic link                    |
+
+#### Compression
+
+| Command | Descriptions                                      |
+| ------- | ------------------------------------------------- |
+| tar     | compress: tar -cvf tarball.tar file1 file2 file 3 |
+|         | extract: tar -xf tarball.tar                      |
+| gzip    | compress: gzip marketing.tar                      |
+|         | extract: gzip -d marketing.tar.gz                 |
+| zip     | zip -r [foldername]                               |
+|         | unzip [foldername]                                |
+
+### Manage Log
+
+| Command                      | Descriptions |
+| ---------------------------- | ------------ |
+| lastlog                      |              |
+| ls /var/log                  |              |
+| cat /var/log/apt/history.log | grep purge   |
+
+### SSH to AWS EC2
+
+- using `key.pem` method
+
+  ```bash
+  sudo ssh -i /path/to/key.pem username@<remote_host_ip>
+  ```
+
+## LAMPP
+
+> Linux Apache PHP MySql PHP PhpMyAdmin
+
+### Apache
+
+### PHP
+
+### MySql
+
+### PhpMyAdmin
+
+## Network
+
+### change hostname
+
+hostname
+hostnamectl
+hostnamectl set-hostname <new-hostname>
+sudo nano /etc/hosts
+
+**permanent** :
+`sudo nano /etc/wsl.conf`
+```
+[network]
+hostname = DemoHost
+generateHosts = false
+generateResolvConf = false
+``` 
+- wsl --list --running
+- wsl --shutdown
+  
+
+## Install Packages untuk Belajar
+
+### Install NodeJS
+
+1. Install NVM (Node Version Manager)
+
+   - <https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl>
+
+   > Or See this post: [posts/nvm/](/posts/nvm/)
+
+> {: .prompt-info }

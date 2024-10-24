@@ -14,12 +14,12 @@ admin:
 rendrapcx:
   name: rendrapcx
   #twitter: rendrapcx
-  url: https://github.com/rendrapcx.github.io
+  #url: https://github.com/rendrapcx.github.io
 
 rendrapwk:
   name: rendrapwk
   #twitter: rendrapwk
-  url: https://github.com/rendrapwk.github.io
+  #url: https://github.com/rendrapwk.github.io
 
 # sille_bille:
 #   name: Dinesh Prasanth Moluguwan Krishnamoorthy
