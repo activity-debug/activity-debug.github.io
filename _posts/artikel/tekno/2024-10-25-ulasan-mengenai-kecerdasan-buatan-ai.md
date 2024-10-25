@@ -68,7 +68,7 @@ Perkembangan AI terus berlanjut, dengan munculnya teknologi-teknologi baru yang 
 
 ## Perbedaan antara kecerdasan buatan (AI) dengan sistem otomatis
 
-    Sistem otomatis adalah sistem yang dapat melakukan tugas-tugas tertentu secara otomatis tanpa campur tangan manusia. Sistem ini biasanya diprogram untuk melakukan serangkaian tugas berdasarkan aturan atau algoritme yang telah ditetapkan sebelumnya.
+   Sistem otomatis adalah sistem yang dapat melakukan tugas-tugas tertentu secara otomatis tanpa campur tangan manusia. Sistem ini biasanya diprogram untuk melakukan serangkaian tugas berdasarkan aturan atau algoritme yang telah ditetapkan sebelumnya.
 
 - **Kemampuan belajar dan beradaptasi**
   
