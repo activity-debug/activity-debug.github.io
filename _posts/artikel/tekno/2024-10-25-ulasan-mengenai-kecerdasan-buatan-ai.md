@@ -6,7 +6,7 @@ date: 2024-10-25 17:46:49  +0700
 categories: [Artikel, Tekno]
 tags: [Tekno]
 image:
-  path: "https://i.ibb.co.com/TTvq4qV/infografis-kecerdasan-buatan.png"
+  path: "activity-debug/image/upload/t_logo_kanan_bawah/v1729857760/nshj7wxx5qoh0jsmrtxq.png"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-kecerdasan-buatan
