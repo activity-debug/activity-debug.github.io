@@ -1,5 +1,6 @@
 ---
 title: Hook Konten
+description: Tips Jitu Meracik Hook Konten yang Menarik, tanpa harus scamming
 author: admin
 date: 2024-10-25 18:50:35 +0700
 categories: [Artikel]

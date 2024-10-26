@@ -1,9 +1,10 @@
 ---
 title: Kaitan antara Perilaku Sosial dan Influencer
-author: rendrapcx
+description: 
+author: admin
 date: 2024-10-21 10:52:55 +0700
-categories: [categories]
-tags: [tags]
+categories: [Artikel]
+tags: [medsos]
 ---
 
 Sebagaimana kita ketahui bahwasannya Influencer adalah individu yang memiliki pengaruh signifikan terhadap perilaku, keputusan, atau pembelian orang lain, terutama melalui media sosial. Mereka seringkali memiliki banyak pengikut yang sangat memperhatikan apa yang mereka lakukan atau katakan.

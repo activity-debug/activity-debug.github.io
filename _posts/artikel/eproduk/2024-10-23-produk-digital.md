@@ -4,7 +4,7 @@ description: Panduan Singkat dari Pengertian hingga Pemasaran
 author: admin
 date: 2024-10-23 14:21:43 +0700
 categories: [Artikel]
-tags: [edukasi]
+tags: [e-produk]
 image:
   path: "activity-debug/image/upload/t_logo-overlay/v1729674276/produk-digital-4.jpg"
   width: 1000   # in pixels

@@ -4,7 +4,7 @@ description: Panduan Singkat untuk Monetisasi Produk Digital
 author: admin
 date: 2024-10-22 15:08:41 +0700
 categories: [Artikel]
-tags: [monetisasi]
+tags: [e-produk, monetisasi]
 image:
   path: "activity-debug/image/upload/t_overlay/v1729686233/gnxgapfrux79fxuawswf.jpg"
   width: 1000   # in pixels

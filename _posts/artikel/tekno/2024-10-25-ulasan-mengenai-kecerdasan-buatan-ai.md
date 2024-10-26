@@ -3,8 +3,8 @@ title: Sekilas mengenai Kecerdasan Buatan (AI)
 description: Mari kita simak bagaimana kecerdasan buatan bukan hanya tentang robot, tetapi juga tentang menciptakan masa depan yang lebih cerdas dan lebih efisien!"
 author: rendrapcx
 date: 2024-10-25 17:46:49  +0700
-categories: [Artikel, Tekno]
-tags: [Tekno]
+categories: [Artikel]
+tags: [AI, teknologi]
 image:
   path: "activity-debug/image/upload/t_logo_kanan_bawah/v1729857760/nshj7wxx5qoh0jsmrtxq.png"
   width: 1000   # in pixels

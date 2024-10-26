@@ -2,8 +2,8 @@
 title: Panduan Singkat Google AdSense
 author: rendrapcx
 date: 2024-10-20 09:10:01 +0700
-categories: [Artikel, Tekno]
-tags: [tekno]
+categories: [Artikel]
+tags: [teknologi, google, adsense, monetisasi]
 image:
   path: "https://i.ibb.co.com/dmF7b0Q/infografis-google-adsense.png"
   width: 1000   # in pixels

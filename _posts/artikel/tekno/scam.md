@@ -1,6 +1,6 @@
 ---
 title: Kenali Scam sejak dini!
-author: rendrapcx
+author: admin
 date: 2024-10-19 11:04:55 +0700
 categories: [artikel, tekno]
 tags: [tekno, medsos]

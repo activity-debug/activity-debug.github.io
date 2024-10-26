@@ -2,7 +2,7 @@
 title: Opini lebih dari sekedar Pendapat
 description: Perbedaan pendapat dapat menunjukkan dinamika berpikir, mendorong pengembangan ilmu pengetahuan, dan merupakan rahmat yang harus disyukuri.
 author: admin
-date: 2024-10-20 12:09:46 +0700
+date: 2024-10-26 00:00:00 +0700
 categories: [Artikel]
 tags: [opini]
 hidden: true
