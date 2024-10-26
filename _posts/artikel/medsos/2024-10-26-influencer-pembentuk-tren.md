@@ -23,8 +23,6 @@ Pemilik merek bisa bekerja sama dengan influencer yang memiliki audiens yang ber
 
 Kekuatan influencerpun berdampak signifikan terhadap pembentukan tren dan perilaku konsumen. Dengan mempromosikan produk tertentu, mereka dapat menciptakan tren baru. Contoh nyata adalah munculnya tren makeup, fashion, atau produk kesehatan yang sering dipicu oleh influencer yang membagikan pengalaman mereka.
 
-Perubahan Preferensi Konsumen: Influencer dapat mendidik audiens mereka tentang produk atau layanan baru, dan ini dapat mengubah preferensi konsumen. 
-
 Ketika seorang influencer membagikan pengalaman positif menggunakan produk, hal ini bisa memengaruhi pengikut untuk mencoba produk yang sama. Hal ini secara tidak langsung mendidik audiens mereka tentang sebuah produk atau merek baru, yang kemudian akan `merubah referensi konsumen` dalam hal berbelanja dan penilai pada sebuah merek atau produk. Terkadang mempengaruhi dengan rasa urgensi atau hasrat yang kuat untuk memiliki produk dan merek tertentu, sehingga memengaruhi pembelian konsumen secara impulsif.
 
 Dengan memahami dinamika pengaruh influencer di media sosial, kita dapat lebih kritis terhadap informasi dan rekomendasi yang disampaikan oleh influencer. Menyadari kemungkinan bias dalam rekomendasi dapat membantu konsumen membuat keputusan yang lebih informasional dan tepat.
