@@ -29,7 +29,7 @@ Google AdSense adalah salah satu alat paling efisien untuk monetisasi situs web 
   : Persentase pengunjung yang mengklik iklan setelah melihatnya.
 
 * **RPM (Revenue Per Mille):** 
-  : Pendapatan yang kamu dapatkan untuk setiap 1000 impresi.
+  : Pendapatan yang anda dapatkan untuk setiap 1000 impresi.
 
 * **CPC (Cost Per Click):** 
   : Jumlah uang yang dibayar pengiklan setiap kali iklannya diklik.
@@ -43,10 +43,10 @@ Google AdSense adalah salah satu alat paling efisien untuk monetisasi situs web 
    Pilih ukuran dan format iklan yang sesuai dengan desain situsmu. Atau gunakan versi `experimental`, dimana hal ini akan menyesuaikan format iklan dengan design blog Anda. Namun akses ini berlaku selama 90 hari dan kita tidak akan dapat melakukan konfigurasi secara manual sebelum masa experimen habis.
 
 3. **Pasang Kode:** 
-   Salin kode yang diberikan Google dan tempelkan di tempat yang ingin kamu tampilkan iklan.
+   Salin kode yang diberikan Google dan tempelkan di tempat yang ingin anda tampilkan iklan.
 
 4. **Dapatkan Uang:** 
-   Google akan secara otomatis mencocokkan iklan dengan konten situsmu dan mulai menampilkannya. Setiap kali ada klik atau impresi, kamu akan mendapatkan penghasilan. Jangan sampai Anda melakukan klik iklan sendiri, karena akan melanggar ketentuan dari google adsense, terlebih jika anda login dengan akun yang sama dan pada *device* yang sama
+   Google akan secara otomatis mencocokkan iklan dengan konten situsmu dan mulai menampilkannya. Setiap kali ada klik atau impresi, anda akan mendapatkan penghasilan. Jangan sampai Anda melakukan klik iklan sendiri, karena akan melanggar ketentuan dari google adsense, terlebih jika anda login dengan akun yang sama dan pada *device* yang sama
 
 **Tips Tambahan:**
 * **Optimalkan Konten:** 
@@ -58,7 +58,7 @@ Google AdSense adalah salah satu alat paling efisien untuk monetisasi situs web 
 * **Pantau Kinerja:**
   Gunakan laporan AdSense untuk melihat kinerja iklanmu dan melakukan penyesuaian jika diperlukan.
 
-Ingat, jumlah uang yang bisa kamu dapatkan dari AdSense sangat bervariasi tergantung pada banyak faktor, seperti niche situs, kualitas lalu lintas, dan jenis iklan yang ditampilkan. Google merahasiakan kisaran harga iklan yang ditayangkan, hanya pihak google dan pengiklan yang mengetahui berapa kisaran perklik dan pertayangannya.
+Ingat, jumlah uang yang bisa anda dapatkan dari AdSense sangat bervariasi tergantung pada banyak faktor, seperti niche situs, kualitas lalu lintas, dan jenis iklan yang ditampilkan. Google merahasiakan kisaran harga iklan yang ditayangkan, hanya pihak google dan pengiklan yang mengetahui berapa kisaran perklik dan pertayangannya.
 
 #### **Jenis-Jenis Iklan AdSense**
 
