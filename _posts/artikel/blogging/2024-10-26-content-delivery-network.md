@@ -112,6 +112,7 @@ Dengan menggunakan CDN, permintaan konten pengguna akan dilayani oleh server ter
   Banyak CDN menawarkan fitur tambahan seperti kompresi, optimasi gambar, dan keamanan DDoS.
 
 **Perbedaan dalam Tabel**
+
 | Fitur           | Server Biasa                       | CDN                                    |
 | --------------- | ---------------------------------- | -------------------------------------- |
 | Lokasi          | Tunggal                            | Tersebar global                        |
