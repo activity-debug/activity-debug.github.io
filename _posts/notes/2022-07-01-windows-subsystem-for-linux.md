@@ -7,8 +7,8 @@ categories: [Notes]
 tags: [wsl]
 image:
   path: "activity-debug/image/upload/t_4_kanan_bawah/v1730097987/crugvjzks468cogokixb.jpg"
-  width: 900   # in pixels
-  height: 425   # in pixels
+  width: 1000   # in pixels
+  height: 400   # in pixels
   alt: infografis-wsl
 ---
 
