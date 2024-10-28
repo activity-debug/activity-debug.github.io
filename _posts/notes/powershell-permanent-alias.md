@@ -1,6 +1,6 @@
 ---
 title: Powershell
-author: rendrapcx
+author: admin
 date: 2022-07-03 09:33:15 +0700
 categories: [Notes, Cheatsheet, PowerShell]
 tags: [windows-11, cheatsheet]

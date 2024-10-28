@@ -1,11 +1,15 @@
 ---
 title: VSCode Snippets
-author: rendrapcx
+author: admin
 date: 2022-07-02 18:03:54 +0700
-categories: [Notes, Cheatsheet, Snippets]
-tags: [vscode, cheatsheet, snippets]
+categories: [Notes]
+tags: []
 pin: false
 ---
+
+> Artikel di laman ini akan terus saya update seiring ada perubahan pada catatan yang saya buat
+{: .prompt-info }
+
 ## Create & Config
 1. <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>p</kbd>
 2. type `snippet`

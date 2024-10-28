@@ -1,29 +1,87 @@
 ---
-title: Ubuntu WSL 2
-author: rendrapcx
+title: Windows Subsystem for Linux
+description: Dengan WSL, Anda tidak perlu lagi menggunakan mesin virtual atau melakukan dual boot untuk menikmati berbagai manfaat dari sistem operasi Linux.
+author: admin
 date: 2022-07-01 20:55:00 +0700
-categories: [Notes, Cheatsheet, WSL2 ]
-tags: [wsl2]
-last_modified_at: 2022-07-06 20:55:00 +0700
+categories: [Notes]
+tags: [wsl]
+image:
+  path: "activity-debug/image/upload/t_4_kanan_bawah/v1730097987/crugvjzks468cogokixb.jpg"
+  width: 900   # in pixels
+  height: 425   # in pixels
+  alt: infografis-wsl
 ---
 
-## What is?
+> Artikel di laman ini akan terus saya update seiring ada perubahan pada catatan yang saya buat
+{: .prompt-info }
 
-- <https://docs.microsoft.com/en-us/windows/wsl/about>
+### Apa Itu WSL (Windows Subsystem for Linux)?
 
-## Install & Config
+  WSL atau Windows Subsystem for Linux adalah fitur yang sangat berguna di Windows yang memungkinkan Anda menjalankan lingkungan Linux secara langsung di dalam sistem operasi Windows Anda. Dengan WSL, Anda tidak perlu lagi menggunakan mesin virtual atau melakukan dual boot untuk menikmati berbagai manfaat dari sistem operasi Linux.
+
+### Mengapa WSL Berguna?
+
+  - **Akses ke Perangkat Lunak Linux:** 
+  
+    Anda bisa menjalankan berbagai aplikasi dan alat baris perintah Linux yang tidak tersedia secara native di Windows, seperti berbagai distribusi Linux (Ubuntu, Debian, Fedora, dll.), alat pengembangan, dan software khusus lainnya.
+
+  - **Integrasi dengan Windows:** 
+    
+    WSL terintegrasi dengan baik dengan Windows, sehingga Anda dapat dengan mudah beralih antara lingkungan Windows dan Linux. File dan folder dapat diakses dari kedua sistem operasi.
+
+  - **Pengembangan Aplikasi:** 
+    
+    WSL sangat berguna bagi pengembang yang ingin menguji dan membangun aplikasi lintas platform. Anda bisa menggunakan alat pengembangan yang sama yang digunakan di lingkungan Linux.
+
+  - **Otomatisasi Tugas:** 
+    
+    Anda bisa menggunakan skrip dan alat otomatisasi Linux untuk melakukan berbagai tugas, seperti pengelolaan file, backup, dan deployment.
+
+  WSL adalah alat yang sangat berharga bagi pengguna Windows yang ingin memanfaatkan kekuatan dan fleksibilitas sistem operasi Linux. Jika Anda seorang pengembang, administrator sistem, atau pengguna yang ingin mencoba Linux, WSL adalah pilihan yang sangat baik.
+
+### Bagaimana Cara Kerja WSL?
+
+  WSL menyediakan lapisan kompatibilitas yang memungkinkan kernel Linux berjalan di atas kernel Windows. Ini berarti Anda dapat menjalankan aplikasi Linux secara langsung di Windows, seolah-olah Anda sedang menggunakan komputer Linux.
+
+### WSL 1 vs WSL 2
+
+Ada dua versi utama WSL:
+
+- **WSL 1:** Versi awal WSL yang lebih ringan dan mudah digunakan.
+
+- **WSL 2:** Versi yang lebih baru dengan performa yang lebih baik, terutama untuk operasi I/O dan kompatibilitas sistem file. WSL 2 menggunakan mesin virtual ringan untuk menjalankan kernel Linux.
+
+### Keuntungan Menggunakan WSL:
+
+- **Fleksibilitas:** Anda bisa memilih distribusi Linux yang sesuai dengan kebutuhan Anda.
+
+- **Efisiensi:** WSL lebih efisien dibandingkan dengan mesin virtual.
+
+- **Kemudahan Penggunaan:** Integrasi yang baik dengan Windows membuat WSL mudah digunakan.
+
+### Contoh Penggunaan WSL:
+
+- **Pengembangan web:** Menggunakan editor kode seperti Visual Studio Code dengan ekstensi untuk pengembangan web di lingkungan Linux.
+
+- **Machine learning:** Melatih model machine learning menggunakan TensorFlow atau PyTorch di dalam lingkungan Linux.
+
+- **Administrasi sistem:** Mengelola server Linux jarak jauh atau menjalankan skrip untuk otomatisasi tugas.
+
+
+### Install & Config
 
 - <https://docs.microsoft.com/en-us/windows/wsl/install>
 - <https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#1-overview>
 
-## Running WSL
+### Menjalankan Ubuntu di WSL
 
-### With Start Menu
+#### Menggunakan Start Menu
 
-1. using start menu,
-2. find for `Ubuntu`
+1. Menggunakan start menu,
+2. cari `Ubuntu`
+3. klik `Ubuntu`
 
-### using Powsershell
+#### Menggunakan Powsershell
 
 1. Open Powershell, (*press <kbd>WinCtl + x</kbd>, type <kbd> i </kbd>*)
 2. type `wsl` on terminal
@@ -34,9 +92,17 @@ last_modified_at: 2022-07-06 20:55:00 +0700
 
 ![Desktop View](https://i.imgur.com/YzzYQZN.png){: .shadow w="40%" }
 
-## Usefull Command
+### Reinstall Ubuntu di WSL
+> clean distro / wipe up data
+1. cek distro: `wls -l`
+2. unregister: `wsl --unregister <DistroName>`
+3. install
 
-### Powershell
+
+
+### Usefull Command
+
+#### Powershell
 
 | Command                     | Descriptions                 |
 | --------------------------- | ---------------------------- |
@@ -75,7 +141,7 @@ last_modified_at: 2022-07-06 20:55:00 +0700
 - tambahkan `wsl` sebelum kode perintah under linuxnya
   - *Ex: Cek status ssh* `wsl service ssh status`
 
-### WSL Packages & Services
+#### WSL Packages & Services
 
 | Command                                | Descriptions                                      |
 | -------------------------------------- | ------------------------------------------------- |
@@ -99,7 +165,7 @@ last_modified_at: 2022-07-06 20:55:00 +0700
 | sudo service ssh stop      | stop sshd                          |
 | service ssh --full-restart | restard sshd                       |
 
-### System Informations
+#### System Informations
 
 | Command              | Descriptions                                                          |
 | -------------------- | --------------------------------------------------------------------- |
@@ -114,7 +180,7 @@ last_modified_at: 2022-07-06 20:55:00 +0700
 | ip addr              | check ip address                                                      |
 | ip addr \| grep eth0 |                                                                       |
 
-### Manage Process
+#### Manage Process
 
 | Command       | Descriptions                                                                          |
 | ------------- | ------------------------------------------------------------------------------------- |
@@ -126,7 +192,7 @@ last_modified_at: 2022-07-06 20:55:00 +0700
 | `top`         | display Linux processes with dynamic real-time view of a running system               |
 | `htop`        | mostly like `top` interactive process viewer                                          |
 
-### Users & Groups
+#### Users & Groups
 
 | Command                   | Descriptions                                                |
 | ------------------------- | ----------------------------------------------------------- |
@@ -143,7 +209,7 @@ last_modified_at: 2022-07-06 20:55:00 +0700
 | `gpasswd`                 | *administer /etc/group and /etc/gshadow*                    |
 | gpasswd -a jack marketing | *add jack to group marketing*                               |
 
-### Permissions
+#### Permissions
 
 | Command               | Descriptions                          |
 | --------------------- | ------------------------------------- |
@@ -151,7 +217,7 @@ last_modified_at: 2022-07-06 20:55:00 +0700
 | su - jack             | login to jack environment new session |
 | sudo cat /etc/sudoers | use `sudo visudo` to modify           |
 
-### Working with Files and Directories
+#### Working with Files and Directories
 
 | Command | Descriptions                        |
 | ------- | ----------------------------------- |
@@ -189,7 +255,7 @@ last_modified_at: 2022-07-06 20:55:00 +0700
 | zip     | zip -r [foldername]                               |
 |         | unzip [foldername]                                |
 
-### Manage Log
+#### Manage Log
 
 | Command                      | Descriptions |
 | ---------------------------- | ------------ |
@@ -197,7 +263,7 @@ last_modified_at: 2022-07-06 20:55:00 +0700
 | ls /var/log                  |              |
 | cat /var/log/apt/history.log | grep purge   |
 
-### SSH to AWS EC2
+#### SSH to AWS EC2
 
 - using `key.pem` method
 
@@ -205,7 +271,7 @@ last_modified_at: 2022-07-06 20:55:00 +0700
   sudo ssh -i /path/to/key.pem username@<remote_host_ip>
   ```
 
-## LAMPP
+### LAMPP
 
 > Linux Apache PHP MySql PHP PhpMyAdmin
 
@@ -217,9 +283,9 @@ last_modified_at: 2022-07-06 20:55:00 +0700
 
 ### PhpMyAdmin
 
-## Network
+### Network
 
-### change hostname
+#### Mengganti hostname
 
 hostname
 hostnamectl
@@ -234,18 +300,18 @@ hostname = DemoHost
 generateHosts = false
 generateResolvConf = false
 ``` 
-- wsl --list --running
-- wsl --shutdown
+- `wsl --list --running`
+- `wsl --shutdown`
   
+  **Atau** `wsl --terminate Ubuntu`
 
-## Install Packages untuk Belajar
+### Install Packages untuk Belajar
 
-### Install NodeJS
+#### Install NodeJS
 
 1. Install NVM (Node Version Manager)
 
    - <https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl>
 
    > Or See this post: [posts/nvm/](/posts/nvm/)
-
-> {: .prompt-info }
+   > {: .prompt-info }
