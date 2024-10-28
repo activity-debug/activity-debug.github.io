@@ -5,7 +5,6 @@ author: admin
 date: 2024-10-26 00:00:00 +0700
 categories: [Artikel]
 tags: [opini]
-pin: true
 image:
   path: "activity-debug/image/upload/t_top-left-cornet-overlay/v1729954084/pqqudio4y7joikfamljl.jpg"
   width: 1000   # in pixels

@@ -5,7 +5,11 @@ author: admin
 date: 2022-07-01 20:55:00 +0700
 categories: [Notes]
 tags: [wsl]
-hidden: true
+image:
+  path: "activity-debug/image/upload/t_4_kanan_bawah/v1730097987/crugvjzks468cogokixb.jpg"
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: infografis-wsl
 ---
 
 > Artikel di laman ini akan terus saya update seiring ada perubahan pada catatan yang saya buat

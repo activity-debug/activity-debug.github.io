@@ -5,7 +5,6 @@ author: admin
 date: 2024-10-26 00:00:00 +0700
 categories: [Artikel]
 tags: [medsos]
-pin: true
 image:
   path: "activity-debug/image/upload/t_logo_kanan_bawah/v1729931336/uagdfkbubazgqt7bawf3.jpg"
   width: 1000   # in pixels
