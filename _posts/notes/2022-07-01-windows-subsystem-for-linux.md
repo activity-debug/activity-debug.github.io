@@ -309,5 +309,4 @@ generateResolvConf = false
 
    - <https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl>
 
-   > Or See this post: [posts/nvm/](/posts/nvm/)
-   > {: .prompt-info }
+
