@@ -141,6 +141,15 @@ Ada dua versi utama WSL:
 - tambahkan `wsl` sebelum kode perintah under linuxnya
   - *Ex: Cek status ssh* `wsl service ssh status`
 
+**Could Not Resolve Hostname Github**
+
+> `sudo nano /etc/resolv.conf`
+
+```
+nameserver 8.8.8.8
+nameserver 8.8.4.4
+```
+
 #### WSL Packages & Services
 
 | Command                                | Descriptions                                      |
