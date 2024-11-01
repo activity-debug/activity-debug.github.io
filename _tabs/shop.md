@@ -6,7 +6,7 @@ order: 4
 
 > [![Activity Debug](https://images.tokopedia.net/assets-tokopedia-lite/v2/zeus/production/e5b8438b.svg)](https://www.tokopedia.com/activitydebug)
 > 
-> Kunjungi Toko Activity Debug di Tokopedia untuk melihat etalase lebih lengkap.
+> Kunjungi Toko [Activity Debug di Tokopedia](https://www.tokopedia.com/activitydebug) untuk melihat etalase lebih lengkap.
 > Dengan membeli produk di Activity Debug, Anda telah membantu kami untuk terus berkarya...
 {: .prompt-tip }
 
