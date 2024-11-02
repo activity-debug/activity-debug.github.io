@@ -21,8 +21,6 @@ Blog ini sengaja tidak kami pasang iklan, karena kami memahami bahwa minat baca 
 
 > [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K1151ATI)
 > 
-> "Hai, kami Rendra Pratama! Seorang pengangguran dengan minat yang besar dalam Pemrograman. kami punya pengalaman 10 tahun dalam IT Support dan Development, dan senang berbagi pengetahuan melalui tutorial, artikel, atau proyek kecil. 
->
 > Dengan mendukung kami di [ko-fi](https://ko-fi.com/K3K1151ATI) , kamu tidak hanya membantu kami terus berkarya, tapi juga bisa mendapatkan akses eksklusif ke materi belajar, konsultasi pribadi, atau bahkan kolaborasi dalam proyek menarik!"
 {: .prompt-tip }
 
