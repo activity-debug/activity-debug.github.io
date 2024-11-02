@@ -28,6 +28,7 @@ Blog ini sengaja tidak kami pasang iklan, karena kami memahami bahwa minat baca 
 
 
 > **Pendaftaran Penulis**
+> 
 > Apakah kamu punya passion dalam menulis dan ingin karya-karyamu dibaca oleh banyak orang? kami mengundangmu untuk berbagi cerita dan pengetahuanmu di Activity-Debug. Tema tulisan bebas, asalkan menarik dan bermanfaat bagi pembaca.
 >
 > Jika Anda berminat, silakan isi [**`formulir`**](https://forms.gle/Cm6K769k1PEgUmWS9) terlebih dahulu. kami akan membalas email Anda secepatnya.
