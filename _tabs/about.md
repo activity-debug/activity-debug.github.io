@@ -21,7 +21,7 @@ Blog ini sengaja tidak kami pasang iklan, karena kami memahami bahwa minat baca 
 
 > [![Saweria](v1730676413/n5eq0jiggvbbpvbvaxhv.png)](https://saweria.co/activitydebug)
 > 
-> Dengan mendukung kami di [ko-fi](https://ko-fi.com/K3K1151ATI) , kamu tidak hanya membantu kami terus berkarya, tapi juga bisa mendapatkan akses eksklusif ke materi belajar, konsultasi pribadi, atau bahkan kolaborasi dalam proyek menarik!"
+> Dengan mendukung kami di [saweria](https://saweria.co/activitydebug) , kamu tidak hanya membantu kami terus berkarya, tapi juga bisa mendapatkan akses eksklusif ke materi belajar, konsultasi pribadi, atau bahkan kolaborasi dalam proyek menarik!"
 {: .prompt-tip }
 
 
