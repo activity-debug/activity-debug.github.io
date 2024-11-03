@@ -1,0 +1,27 @@
+---
+layout: page
+title: Rendra Pratama C, ST
+author: admin
+date: 2024-01-01 00:00:00 +0700
+categories: [Penulis]
+tags: [penulis]
+hidden: true
+toc: false
+---
+
+> "Takut Mati Jangan Hidup, Takut Hidup Mati Saja"
+
+![avatar-1](v1730611539/pavsycse8qyoczqluvld.png){: w="150" h="150" .left }
+Berpengalaman dalam menangani IT Support, mengelola proyek IT, dan memberikan pelatihan. Selain itu, saya juga memiliki pengalaman sebagai staf IT dan HR di berbagai perusahaan dengan beragam bidang, seperti leasing, fabrikasi, instansi pemerintah, dan sekolah. Pengalaman ini telah memberi saya keterampilan dan pengetahuan yang luas dalam mengelola sistem IT dan sumber daya manusia, serta memahami kebutuhan spesifik dari berbagai industri.
+
+Saat ini, saya sedang mengejar minat saya di bidang penulisan. Saya aktif memperdalam keterampilan menulis saya, baik dalam konteks profesional maupun pribadi. Selain itu, saya juga terlibat dalam berbagai proyek penulisan, termasuk menulis artikel, blog, dan mungkin bahkan buku di masa depan. Pengalaman ini tidak hanya memperkaya kemampuan saya dalam menyampaikan ide-ide secara efektif, tetapi juga memberikan kepuasan pribadi yang mendalam. Saya percaya bahwa menulis adalah sarana yang kuat untuk berbagi pengetahuan, menginspirasi, dan memberikan dampak positif kepada orang lain.
+
+## Resume 
+> [Download as pdf](https://res.cloudinary.com/activity-debug/image/upload/v1730613092/aeq6fsvuks9pfprjbrji.pdf)
+{: .prompt-info }
+
+![resume](v1730613237/kii4sj0tf7d2zyrshw0h.png)
+
+
+
+
