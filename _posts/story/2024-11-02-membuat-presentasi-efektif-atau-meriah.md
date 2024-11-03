@@ -7,7 +7,7 @@ categories: [Artikel]
 tags: [story]
 pin: true
 image:
-  path: "activity-debug/image/upload/t_logo_kanan_bawah/v1730498968/aeudwgc7qznv2jmlasmn.jpg"
+  path: "t_logo_kanan_bawah/v1730498968/aeudwgc7qznv2jmlasmn.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-presentasi-efektif-atau-meriah

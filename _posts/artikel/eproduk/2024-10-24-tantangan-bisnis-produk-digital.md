@@ -6,7 +6,7 @@ date: 2024-10-24 14:04:13 +0700
 categories: [Artikel]
 tags: [e-produk]
 image:
-  path: "activity-debug/image/upload/t_overlay/v1729756185/cboivwwqgyndjv9iyo1t.jpg"
+  path: "t_overlay/v1729756185/cboivwwqgyndjv9iyo1t.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-tantangan-produk-digital

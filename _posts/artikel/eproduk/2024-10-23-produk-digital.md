@@ -6,7 +6,7 @@ date: 2024-10-23 14:21:43 +0700
 categories: [Artikel]
 tags: [e-produk]
 image:
-  path: "activity-debug/image/upload/t_logo-overlay/v1729674276/produk-digital-4.jpg"
+  path: "t_logo-overlay/v1729674276/produk-digital-4.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-produk-digital

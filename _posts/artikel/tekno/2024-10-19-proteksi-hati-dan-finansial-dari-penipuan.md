@@ -6,7 +6,7 @@ date: 2024-10-19 11:17:03 +0700
 categories: [Artikel]
 tags: [scam, medsos]
 image:
-  path: "activity-debug/image/upload/t_logo_kanan_bawah/v1730001004/rdkysrvtas4htw7lbbdu.png"
+  path: "t_logo_kanan_bawah/v1730001004/rdkysrvtas4htw7lbbdu.png"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-proteksi-scam
@@ -51,7 +51,7 @@ Berikut ini adalah beberapa langkah yang bisa Anda ambil untuk melindungi diri d
 
 4. **Verifikasi Situs Web Sebelum Melakukan Transaksi** 
    
-   ![ss-lock-https](activity-debug/image/upload/v1729999983/lpyjut9c6yijqbkw3jeq.png){: width="972" height="589" .w-50 .left}
+   ![ss-lock-https](v1729999983/lpyjut9c6yijqbkw3jeq.png){: width="972" height="589" .w-50 .left}
    Sebelum memasukkan informasi pembayaran, pastikan situs web tersebut aman dan sah. Cari ikon gembok di bilah alamat browser dan pastikan URL dimulai dengan "https". Baca ulasan dan periksa reputasi situs sebelum melakukan transaksi. Pastikan situs tersebut memiliki ulasan positif dari pengguna lain dan reputasi yang baik dalam hal keamanan dan pelayanan. Anda bisa mencari ulasan di situs web tepercaya, forum diskusi, atau media sosial untuk mendapatkan gambaran yang lebih baik tentang pengalaman orang lain dengan situs tersebut. Selain itu, periksa kebijakan privasi dan syarat layanan situs tersebut untuk memastikan bahwa data pribadi Anda akan terlindungi. Dengan langkah-langkah ini, Anda dapat mengurangi risiko penipuan dan memastikan bahwa transaksi Anda aman dan terpercaya.
 
 5. **Jangan Tergiur Penawaran yang Terlalu Bagus** 

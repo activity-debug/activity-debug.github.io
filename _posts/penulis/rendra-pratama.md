@@ -17,7 +17,7 @@ Berpengalaman dalam menangani IT Support, mengelola proyek IT, dan memberikan pe
 Saat ini, saya sedang mengejar minat saya di bidang penulisan. Saya aktif memperdalam keterampilan menulis saya, baik dalam konteks profesional maupun pribadi. Selain itu, saya juga terlibat dalam berbagai proyek penulisan, termasuk menulis artikel, blog, dan mungkin bahkan buku di masa depan. Pengalaman ini tidak hanya memperkaya kemampuan saya dalam menyampaikan ide-ide secara efektif, tetapi juga memberikan kepuasan pribadi yang mendalam. Saya percaya bahwa menulis adalah sarana yang kuat untuk berbagi pengetahuan, menginspirasi, dan memberikan dampak positif kepada orang lain.
 
 ## Resume 
-> [Download as pdf](https://res.cloudinary.com/activity-debug/image/upload/v1730613092/aeq6fsvuks9pfprjbrji.pdf)
+> [Download as pdf](v1730613092/aeq6fsvuks9pfprjbrji.pdf)
 {: .prompt-info }
 
 ![resume](v1730613237/kii4sj0tf7d2zyrshw0h.png)

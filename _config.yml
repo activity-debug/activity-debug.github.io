@@ -39,7 +39,8 @@ social:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/activity-debug # change to your GitHub homepage
-    - https://www.facebook.com/activitydebug
+    - https://www.facebook.com/profile.php?id=61567837411271
+    #- https://www.facebook.com/activitydebug
     # Uncomment below to add more social links
     # - https://www.linkedin.com/in/username
 
@@ -96,10 +97,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: https://res.cloudinary.com
+cdn: https://res.cloudinary.com/activity-debug/image/upload/ #https://res.cloudinary.com
 
 # the avatar on sidebar, support local or CORS resources
-avatar: activity-debug/image/upload/v1729683117/v5znkhnwea4mqoc0gpzc.png
+avatar: v1729683117/v5znkhnwea4mqoc0gpzc.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

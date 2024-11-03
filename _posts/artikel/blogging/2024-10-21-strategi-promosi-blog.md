@@ -6,7 +6,7 @@ date: 2024-10-21 13:53:04 +0700
 categories: [Artikel]
 tags: [blogging]
 image:
-  path: "activity-debug/image/upload/t_overlay/v1729686232/buolnoynlybd3fitjmyf.jpg"
+  path: "t_overlay/v1729686232/buolnoynlybd3fitjmyf.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-blog-money

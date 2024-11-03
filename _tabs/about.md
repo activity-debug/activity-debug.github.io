@@ -19,7 +19,7 @@ Provider untuk blogging yang kami gunakan saat ini semuanya masih menggunakan fi
 Blog ini sengaja tidak kami pasang iklan, karena kami memahami bahwa minat baca saat ini, khususnya di Indonesia, masih relatif rendah. Untuk itu, kami berusaha meminimalisir distraksi bagi para pembaca di Blog ini. Namun, kami menyediakan tombol donasi dan toko merchandise. Yang mana donasi dan hasil pendapatan toko akan digunakan untuk ongkos produksi, termasuk membayar para penulis dan tim Activity Debug. Dengan demikian, kami berharap bisa terus berkarya dan memberikan konten yang bermanfaat bagi semua pembaca.
 
 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K1151ATI)
+> [![Saweria](v1730676413/n5eq0jiggvbbpvbvaxhv.png)](https://saweria.co/activitydebug)
 > 
 > Dengan mendukung kami di [ko-fi](https://ko-fi.com/K3K1151ATI) , kamu tidak hanya membantu kami terus berkarya, tapi juga bisa mendapatkan akses eksklusif ke materi belajar, konsultasi pribadi, atau bahkan kolaborasi dalam proyek menarik!"
 {: .prompt-tip }

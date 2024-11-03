@@ -6,7 +6,7 @@ date: 2024-10-26 00:00:00 +0700
 categories: [Artikel]
 tags: [blogging]
 image:
-  path: "activity-debug/image/upload/t_5-kanan-bawah/v1729953159/hxfrpanxhoyezarlrfie.jpg"
+  path: "t_5-kanan-bawah/v1729953159/hxfrpanxhoyezarlrfie.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-cdn

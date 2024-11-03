@@ -6,7 +6,7 @@ date: 2024-10-20 09:10:01 +0700
 categories: [Artikel]
 tags: [teknologi, google, adsense, monetisasi]
 image:
-  path: "activity-debug/image/upload/t_logo_kanan_bawah/v1729943885/gfocuk1nsy2doai7yiyu.png"
+  path: "t_logo_kanan_bawah/v1729943885/gfocuk1nsy2doai7yiyu.png"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-google-adsense

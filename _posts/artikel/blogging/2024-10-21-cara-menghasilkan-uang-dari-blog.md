@@ -6,7 +6,7 @@ date: 2024-10-21 13:41:09 +0700
 categories: [Artikel]
 tags: [blogging, monetisasi]
 image:
-  path: "activity-debug/image/upload/t_overlay/v1729686231/ljh2q4vwu0quixivkh5n.jpg"
+  path: "t_overlay/v1729686231/ljh2q4vwu0quixivkh5n.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-blog-money

@@ -6,7 +6,7 @@ date: 2024-10-21 12:44:23 +0700
 categories: [Artikel]
 tags: [medsos]
 image:
-  path: "activity-debug/image/upload/t_5-kanan-bawah/v1729856005/kpvxncrhmwxsrc6shuo0.jpg"
+  path: "t_5-kanan-bawah/v1729856005/kpvxncrhmwxsrc6shuo0.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: transformasi media sosial

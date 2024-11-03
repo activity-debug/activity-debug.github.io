@@ -6,7 +6,7 @@ date: 2024-10-26 00:01:00 +0700
 categories: [Artikel]
 tags: [medsos]
 image:
-  path: "activity-debug/image/upload/t_logo_kanan_bawah/v1729931345/n1su5csukwwb9kwe1h5n.jpg"
+  path: "t_logo_kanan_bawah/v1729931345/n1su5csukwwb9kwe1h5n.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-influencer
