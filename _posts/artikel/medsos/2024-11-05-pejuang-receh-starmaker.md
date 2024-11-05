@@ -13,6 +13,7 @@ image:
   alt: infografis-pejuang-receh
 ---
 
+
 Starmaker adalah perusahaan media berbasis teknologi yang berfokus pada musik dan hiburan. Tujuan mereka adalah membantu membangun hubungan antara orang-orang dari berbagai daerah serta mendorong lebih banyak talenta musik untuk mengekspresikan diri. Perusahaan ini memiliki basis pengguna yang kuat dan aktif di beberapa negara berkembang seperti Indonesia, India, dan negara-negara di Timur Tengah.
 
 Setelah *Opera Ltd* berinvestasi dengan nilai yang fantastis dan akhirnya memegang 65% saham ekuitas di StarMaker, mereka melakukan banyak perubahan dan perbaikan pada aplikasi, termasuk juga pada website utama *www.starmakerstudios.com*, yang salah satu fungsinya adalah untuk para kreator musik mengunggah musik karaoke. Awalnya, *Starmakerstudios Tune Upload* memperkenankan unggahan lagu yang masih ada suara vokalnya, namun setelah ada perbaikan pada bulan Oktober 2024, hal tersebut tidak lagi dapat dilakukan.
@@ -30,11 +31,3 @@ Penghapusan permainan yang dianggap kurang menguntungkan dan sepi pemain sudah s
 Namun sayangnya beberapa permainan yang ditambahkan lebih mengarah pada perjudian online, walaupun tidak berbentuk permainan kartu tradisional pada umumnya. Sebenarnya wajar saja, karena hal ini merupakan salah satu sumber pendapatan perusahaan, yang memicu para pemain untuk melakukan top up koin starmaker. Bahkan sebagian para pemain yang melakukan top up koin di sana lebih sering menggunakan kata *“sedekah”* ke starmaker.
 
 Ini menunjukkan bahwa perubahan platform teknologi seringkali memiliki dampak ganda, baik positif maupun negatif, tergantung dari perspektif pengguna yang berbeda. Sementara perlindungan hak cipta ditingkatkan, tantangan baru muncul, termasuk ketergantungan pada permainan yang bisa mengarah ke perjudian. Selain itu, meskipun langkah-langkah tersebut bertujuan baik, mereka juga dapat mengakibatkan hilangnya sumber pendapatan bagi para kreator yang sebelumnya memanfaatkan fitur unggahan. Penting bagi perusahaan untuk terus mengevaluasi dampak dari setiap perubahan yang dilakukan dan mencari solusi yang seimbang untuk mendukung perlindungan hak cipta tanpa mengorbankan pengguna atau komunitas mereka.
-
-
-
- 
-
-
-
-
