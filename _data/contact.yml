@@ -41,6 +41,10 @@
   url: 'https://www.facebook.com/activitydebug'                   # Fill with your Reddit profile link
 
 
-- type: threads
-  icon: 'fa-brands fa-threads'
-  url: 'https://www.threads.net/@activitydebug' # Fill with your Threads profile link
+# - type: threads
+#   icon: 'fa-brands fa-threads'
+#   url: 'https://www.threads.net/@activitydebug' # Fill with your Threads profile link
+
+- type: tumblr
+  icon: 'fa-brands fa-tumblr'
+  url: 'https://www.tumblr.com/activity-debug'
