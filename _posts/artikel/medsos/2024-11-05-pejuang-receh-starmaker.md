@@ -5,11 +5,12 @@ author: admin
 date: 2024-11-05 10:29:56 +0700
 categories: [Artikel]
 tags: [medsos, starmaker]
+pin: true
 image:
   path: "t_logo_kanan_bawah/v1730778686/zxllnvvljo7qlclxf96p.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
-  alt: -
+  alt: infografis-pejuang-receh
 ---
 
 Starmaker adalah perusahaan media berbasis teknologi yang berfokus pada musik dan hiburan. Tujuan mereka adalah membantu membangun hubungan antara orang-orang dari berbagai daerah serta mendorong lebih banyak talenta musik untuk mengekspresikan diri. Perusahaan ini memiliki basis pengguna yang kuat dan aktif di beberapa negara berkembang seperti Indonesia, India, dan negara-negara di Timur Tengah.
