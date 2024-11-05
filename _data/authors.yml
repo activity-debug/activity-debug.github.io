@@ -9,19 +9,13 @@
 admin:
   name: Admin
   #twitter: rendrapcx
-  #facebook: https://www.facebook.com/activitydebug
   url: "/posts/admin/" #https://activity-debug.github.io
 
 nendi:
   name: Nendi Muklis
-  url: "/teams/nendi"
+  url: "/posts/nendi"
 
-rendrapwk:
-  name: rendrapwk
-  #twitter: rendrapwk
-  #url: https://github.com/rendrapwk.github.io
+nendi:
+  name: Ridwan A. Adhirangga
+  url: "/posts/ridwan"
 
-# sille_bille:
-#   name: Dinesh Prasanth Moluguwan Krishnamoorthy
-#   twitter: dinesh_MKD
-#   url: https://github.com/SilleBille/
