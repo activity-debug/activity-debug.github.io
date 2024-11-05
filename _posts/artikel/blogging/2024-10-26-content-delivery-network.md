@@ -3,8 +3,8 @@ title: Content Delivery Network (CDN)
 description: Bayangkan CDN sebagai sebuah jaringan jalan tol yang sangat luas dan cepat, yang menghubungkan berbagai kota di seluruh dunia.
 author: admin
 date: 2024-10-26 00:00:00 +0700
-categories: [Artikel]
-tags: [blogging]
+categories: [Artikel, Blogging]
+tags: []
 image:
   path: "t_5-kanan-bawah/v1729953159/hxfrpanxhoyezarlrfie.jpg"
   width: 1000   # in pixels

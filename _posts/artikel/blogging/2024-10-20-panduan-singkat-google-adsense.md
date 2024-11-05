@@ -3,7 +3,7 @@ title: Panduan Singkat Google AdSense
 description: '"Clicks to Cash" menguasai seni pendapatan online dengan google adsense.'
 author: admin
 date: 2024-10-20 09:10:01 +0700
-categories: [Artikel]
+categories: [Artikel, Blogging]
 tags: [teknologi, google, adsense, monetisasi]
 image:
   path: "t_logo_kanan_bawah/v1729943885/gfocuk1nsy2doai7yiyu.png"

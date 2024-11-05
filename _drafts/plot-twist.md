@@ -1,9 +1,9 @@
 ---
 title: Plot Twist
-author: rendrapcx
+author: admin
 date: 2024-09-29 19:03:47 +0700
-categories: [Artikel, Sastra]
-tags: [Sastra]
+categories: [Artikel]
+tags: [other]
 ---
 
 **Twist** dalam dunia cerita adalah seperti bumbu rahasia yang membuat segalanya lebih menarik. Jadi, mari kita bahas lebih lanjut.

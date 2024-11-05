@@ -3,7 +3,7 @@ title: Masa Depan Blogging
 description: Lanskap digital telah berubah drastis dengan munculnya berbagai platform media sosial dan konten video.
 author: admin
 date: 2024-10-21 12:52:39 +0700
-categories: [Artikel]
+categories: [Artikel, Blogging]
 tags: [blogging]
 image:
   path: "t_overlay/v1729687778/hsmbq0a98aenu5nk8znk.jpg"

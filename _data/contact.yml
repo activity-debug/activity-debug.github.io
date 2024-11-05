@@ -38,7 +38,7 @@
 
 - type: facebook
   icon: 'fa-brands fa-facebook'
-  url: 'https://www.facebook.com/activitydebug'                   # Fill with your Reddit profile link
+  url: 'https://www.facebook.com/profile.php?id=61567837411271' #'https://www.facebook.com/activitydebug'                   # Fill with your Reddit profile link
 
 
 # - type: threads

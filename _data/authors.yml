@@ -7,14 +7,14 @@
 # -------------------------------------
 
 admin:
-  name: Activity-Debug
-  #twitter: cotes2020
-  url: https://activity-debug.github.io
-
-rendrapcx:
-  name: rendrapcx
+  name: Admin
   #twitter: rendrapcx
-  #url: https://github.com/rendrapcx.github.io
+  #facebook: https://www.facebook.com/activitydebug
+  url: "/posts/admin/" #https://activity-debug.github.io
+
+nendi:
+  name: Nendi Muklis
+  url: "/teams/nendi"
 
 rendrapwk:
   name: rendrapwk

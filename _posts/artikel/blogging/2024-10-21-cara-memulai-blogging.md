@@ -3,7 +3,7 @@ title: Cara Memulai Blog
 description: Bingung mau mulai dari mana?
 author: admin
 date: 2024-10-21 12:56:50 +0700
-categories: [Artikel]
+categories: [Artikel, Blogging]
 tags: [blogging]
 image:
   path: "t_overlay/v1729687622/b1htsgzzs6rfubuquruv.jpg"

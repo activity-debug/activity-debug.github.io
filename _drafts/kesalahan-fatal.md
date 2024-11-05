@@ -1,8 +1,8 @@
 ---
 title: Kesalahan Fatal
-author: rendrapcx
+author: nendi
 date: 2022-08-18 18:30:10 +0700
-categories: [Story, Kisahku]
+categories: [Story]
 tags: []
 ---
 

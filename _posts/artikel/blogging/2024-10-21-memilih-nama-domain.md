@@ -3,7 +3,7 @@ title: Memilih Nama Domain yang Bagus
 descriptiom: langkah krusial dalam membangun identitas dan merek website Anda.
 author: admin
 date: 2024-10-21 13:49:27 +0700
-categories: [Artikel]
+categories: [Artikel, Blogging]
 tags: [blogging]
 image:
   path: "t_logo-overlay/v1729667851/imfsom4vu2gztcjuswdl.jpg"

@@ -3,8 +3,8 @@ title: Strategi Promosi Blog yang Efektif
 description: '"Sebuah tujuan tanpa rencana hanyalah sebuah keinginan." - Antoine de Saint-Exupéry'
 author: admin
 date: 2024-10-21 13:53:04 +0700
-categories: [Artikel]
-tags: [blogging]
+categories: [Artikel, Blogging]
+tags: []
 image:
   path: "t_overlay/v1729686232/buolnoynlybd3fitjmyf.jpg"
   width: 1000   # in pixels

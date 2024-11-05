@@ -3,8 +3,8 @@ title: Cara Menghasilkan Uang dari Blog
 description: Pilihan Anda akan menentukan nasib Anda. Ambilah waktu untuk menentukan pilihan yang benar.
 author: admin
 date: 2024-10-21 13:41:09 +0700
-categories: [Artikel]
-tags: [blogging, monetisasi]
+categories: [Artikel, Blogging]
+tags: [monetisasi]
 image:
   path: "t_overlay/v1729686231/ljh2q4vwu0quixivkh5n.jpg"
   width: 1000   # in pixels
