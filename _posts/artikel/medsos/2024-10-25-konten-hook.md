@@ -6,7 +6,7 @@ date: 2024-10-25 18:50:35 +0700
 categories: [Artikel]
 tags: [medsos]
 image:
-  path: "t_overlay/eeavmtmqdcsf1tmmfukg.webp"
+  path: "t_overlay-centereeavmtmqdcsf1tmmfukg.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-hook-konten

@@ -6,7 +6,7 @@ date: 2024-10-21 12:56:50 +0700
 categories: [Artikel, Blogging]
 tags: [blogging]
 image:
-  path: "t_overlay/b1htsgzzs6rfubuquruv.webp"
+  path: "t_overlay-center/b1htsgzzs6rfubuquruv.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-memulai-blog

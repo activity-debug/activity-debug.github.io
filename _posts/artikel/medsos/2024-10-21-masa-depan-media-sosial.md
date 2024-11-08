@@ -6,7 +6,7 @@ date: 2024-10-21 12:44:23 +0700
 categories: [Artikel]
 tags: [medsos]
 image:
-  path: "t_overlay/kpvxncrhmwxsrc6shuo0.webp"
+  path: "t_overlay-centerkpvxncrhmwxsrc6shuo0.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: transformasi media sosial

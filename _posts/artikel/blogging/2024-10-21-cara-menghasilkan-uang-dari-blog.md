@@ -6,7 +6,7 @@ date: 2024-10-21 13:41:09 +0700
 categories: [Artikel, Blogging]
 tags: [monetisasi]
 image:
-  path: "t_overlay/ljh2q4vwu0quixivkh5n.webp"
+  path: "t_overlay-center/ljh2q4vwu0quixivkh5n.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-blog-money

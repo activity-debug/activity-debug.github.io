@@ -6,7 +6,7 @@ date: 2024-10-23 14:21:43 +0700
 categories: [Artikel]
 tags: [e-produk]
 image:
-  path: "t_overlay/produk-digital-4.webp"
+  path: "t_overlay-centerproduk-digital-4.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-produk-digital

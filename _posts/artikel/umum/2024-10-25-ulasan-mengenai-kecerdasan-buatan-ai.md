@@ -6,7 +6,7 @@ date: 2024-10-25 17:46:49  +0700
 categories: [Artikel]
 tags: [AI, teknologi]
 image:
-  path: "t_overlay/nshj7wxx5qoh0jsmrtxq.webp"
+  path: "t_overlay-centernshj7wxx5qoh0jsmrtxq.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-kecerdasan-buatan

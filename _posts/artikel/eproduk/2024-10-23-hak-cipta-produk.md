@@ -6,7 +6,7 @@ date: 2024-10-23 14:35:53 +0700
 categories: [Artikel]
 tags: [e-produk, hak-cipta]
 image:
-  path: "t_overlay/produk-digital-3.webp"
+  path: "t_overlay-centerproduk-digital-3.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-produk-digital
