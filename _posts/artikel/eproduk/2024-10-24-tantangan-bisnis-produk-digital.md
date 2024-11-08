@@ -6,7 +6,7 @@ date: 2024-10-24 14:04:13 +0700
 categories: [Artikel]
 tags: [e-produk]
 image:
-  path: "t_overlay-centercboivwwqgyndjv9iyo1t.webp"
+  path: "t_overlay-center/cboivwwqgyndjv9iyo1t.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-tantangan-produk-digital

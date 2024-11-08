@@ -6,7 +6,7 @@ date: 2024-10-22 15:08:41 +0700
 categories: [Artikel]
 tags: [e-produk, monetisasi]
 image:
-  path: "t_overlay-centergnxgapfrux79fxuawswf.webp"
+  path: "t_overlay-center/gnxgapfrux79fxuawswf.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-monetize-product

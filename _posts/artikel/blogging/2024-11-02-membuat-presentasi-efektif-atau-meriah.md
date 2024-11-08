@@ -7,7 +7,7 @@ categories: [Artikel]
 tags: [story]
 pin: true
 image:
-  path: "t_overlay-centeraeudwgc7qznv2jmlasmn.webp"
+  path: "t_overlay-center/aeudwgc7qznv2jmlasmn.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-presentasi-efektif-atau-meriah

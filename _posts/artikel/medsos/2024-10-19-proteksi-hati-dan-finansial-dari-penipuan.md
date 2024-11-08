@@ -6,7 +6,7 @@ date: 2024-10-19 11:17:03 +0700
 categories: [Artikel]
 tags: [scam, medsos]
 image:
-  path: "t_overlay-centerrdkysrvtas4htw7lbbdu.webp"
+  path: "t_overlay-center/rdkysrvtas4htw7lbbdu.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-proteksi-scam

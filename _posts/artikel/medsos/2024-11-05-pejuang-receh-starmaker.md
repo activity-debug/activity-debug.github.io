@@ -7,7 +7,7 @@ categories: [Artikel]
 tags: [medsos, starmaker]
 pin: true
 image:
-  path: "t_overlay-centerzxllnvvljo7qlclxf96p.webp"
+  path: "t_overlay-center/zxllnvvljo7qlclxf96p.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-pejuang-receh

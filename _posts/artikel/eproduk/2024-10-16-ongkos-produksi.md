@@ -6,7 +6,7 @@ date: 2024-10-16 10:00:12 +0700
 categories: [Artikel]
 tags: [e-produk, produksi, ekonomi]
 image:
-  path: "t_overlay-centeriuczybc6iol8lyvpfzsn.webp"
+  path: "t_overlay-center/iuczybc6iol8lyvpfzsn.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-ongkos-produksi
