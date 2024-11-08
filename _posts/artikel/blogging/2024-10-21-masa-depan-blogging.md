@@ -6,7 +6,7 @@ date: 2024-10-21 12:52:39 +0700
 categories: [Artikel, Blogging]
 tags: [blogging]
 image:
-  path: "t_overlay/v1729687778/hsmbq0a98aenu5nk8znk.webp"
+  path: "t_overlay/hsmbq0a98aenu5nk8znk.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-blogging

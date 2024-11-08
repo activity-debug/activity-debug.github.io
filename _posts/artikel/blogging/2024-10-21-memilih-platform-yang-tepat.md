@@ -6,7 +6,7 @@ date: 2024-10-21 13:32:49 +0700
 categories: [Artikel, Blogging]
 tags: []
 image:
-  path: "t_overlay/v1729664401/platform-blog_rxqhf7.jpg"
+  path: "t_overlay/platform-blog_rxqhf7.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: blog-platform
