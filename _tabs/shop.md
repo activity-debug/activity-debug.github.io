@@ -14,8 +14,8 @@ order: 4
 
 ## Kaos O-Neck RedMango Premium Custom 
 
-![Kaos O-Neck RedMango Premium Custom](v1730499854/k3iyjvgxqfsn2xpdahih.jpg){: .shadow .normal }
-![Kaos O-Neck RedMango Premium Custom](v1730499855/otxxm2nmpehv3ihvat3e.jpg){: .shadow .normal }
+![Kaos O-Neck RedMango Premium Custom](t_etalase/k3iyjvgxqfsn2xpdahih.png){: .shadow .normal w="300" h="300" }
+![Kaos O-Neck RedMango Premium Custom](t_etalase/otxxm2nmpehv3ihvat3e.png){: .shadow .normal w="300" h="300" }
 
 | Deskripsi:  [🛍️ Lihat di Etalase Toko](https://tokopedia.link/jUbAkL7fbOb) |
 | :------------------------------------------------------------------------ |
@@ -28,7 +28,7 @@ order: 4
 
 ## Magic Mug Custom
 
-![Magic Mug Custom](v1730499855/ja2s6untbygy88v9kk4m.jpg){: .shadow .normal}
+![Magic Mug Custom](t_etalase/ja2s6untbygy88v9kk4m.png){: .shadow .normal}
 
 > **Magic Mug**: Mug bunglon yang bisa berubah warna jika diisi dengan air panas.
 > Gambar yang sebelumnya tersembunyi di balik warna gelap akan perlahan muncul 

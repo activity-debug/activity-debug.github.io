@@ -7,7 +7,7 @@ categories: [Artikel]
 tags: [medsos, starmaker]
 pin: true
 image:
-  path: "t_logo_kanan_bawah/v1730778686/zxllnvvljo7qlclxf96p.jpg"
+  path: "t_overlay/v1730778686/zxllnvvljo7qlclxf96p.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-pejuang-receh

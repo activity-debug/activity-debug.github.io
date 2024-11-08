@@ -6,7 +6,7 @@ date: 2024-10-26 00:00:00 +0700
 categories: [Artikel]
 tags: [medsos]
 image:
-  path: "t_logo_kanan_bawah/v1729931336/uagdfkbubazgqt7bawf3.jpg"
+  path: "t_overlay/uagdfkbubazgqt7bawf3.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-influencer-pembentuk-tren

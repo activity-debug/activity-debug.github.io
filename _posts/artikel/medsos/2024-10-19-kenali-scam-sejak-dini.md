@@ -6,7 +6,7 @@ date: 2024-10-19 11:04:55 +0700
 categories: [Artikel]
 tags: [medsos, scam]
 image:
-  path: "t_logo-overlay/v1729947071/tk4hol8luxd9ebifsrql.png"
+  path: "t_overlay/tk4hol8luxd9ebifsrql.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-scamming

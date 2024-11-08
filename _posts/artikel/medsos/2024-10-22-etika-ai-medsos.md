@@ -6,7 +6,7 @@ date: 2024-10-22 16:14:47 +0700
 categories: [Artikel]
 tags: [medsos]
 image:
-  path: "t_bottom-left-small/v1729776643/mm04uaijmkuddqn25agq.jpg"
+  path: "t_overlay/mm04uaijmkuddqn25agq.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-penerapan-etika-AI-dalam-media-sosial

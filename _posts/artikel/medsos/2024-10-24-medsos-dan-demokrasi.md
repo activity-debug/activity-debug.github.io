@@ -6,7 +6,7 @@ date: 2024-10-24 16:07:02 +0700
 categories: [Artikel]
 tags: [medsos]
 image:
-  path: "t_bottom-left-small/v1729777765/ebnz9ym30lkntdsqczgp.jpg"
+  path: "t_overlay/ebnz9ym30lkntdsqczgp.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-medsos-demokratisasi

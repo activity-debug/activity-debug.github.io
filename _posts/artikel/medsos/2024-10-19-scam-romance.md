@@ -6,7 +6,7 @@ date: 2024-10-19 11:09:16 +0700
 categories: [Artikel]
 tags: [medsos, scam]
 image:
-  path: "t_4_kanan_bawah/v1729945624/cbb8ffh0cymayvrprfzo.png"
+  path: "t_overlay/cbb8ffh0cymayvrprfzo.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-romance-scam

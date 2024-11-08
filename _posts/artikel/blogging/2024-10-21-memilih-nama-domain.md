@@ -6,7 +6,7 @@ date: 2024-10-21 13:49:27 +0700
 categories: [Artikel, Blogging]
 tags: [blogging]
 image:
-  path: "t_logo-overlay/v1729667851/imfsom4vu2gztcjuswdl.jpg"
+  path: "t_overlay/v1729667851/imfsom4vu2gztcjuswdl.jpg"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: "choose-a-domain"

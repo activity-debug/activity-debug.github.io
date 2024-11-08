@@ -6,7 +6,7 @@ date: 2024-10-26 00:00:00 +0700
 categories: [Artikel]
 tags: [opini]
 image:
-  path: "t_top-left-cornet-overlay/v1729954084/pqqudio4y7joikfamljl.jpg"
+  path: "t_overlay/pqqudio4y7joikfamljl.webp"
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: infografis-kecacauan-podcast
